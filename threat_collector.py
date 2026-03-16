@@ -2,7 +2,7 @@
 =============================================================
   European Cyber Threat Collector
 =============================================================
-  Converted from abuseipdb_collector.ipynb
+  Converted from api_data_collector.ipynb
 
   Architecture (3-stage pipeline):
     Stage 1 - AbuseIPDB /blacklist  : downloads 10,000 IPs (1 request)
@@ -44,7 +44,7 @@ from tqdm import tqdm
 
 
 # ─────────────────────────────────────────────────────────────
-#  CONFIG — paste your API key here
+#  CONFIG - paste your API key here
 # ─────────────────────────────────────────────────────────────
 ABUSEIPDB_API_KEY = os.environ.get("ABUSEIPDB_API_KEY", "PASTE_YOUR_API_KEY_HERE")
 
@@ -89,7 +89,7 @@ ATTACK_CATEGORIES = {
 
 
 # ═════════════════════════════════════════════════════════════
-#  STAGE 0 — Validate & Check Quota
+#  STAGE 0 - Validate & Check Quota
 # ═════════════════════════════════════════════════════════════
 
 def check_quota(api_key):
@@ -142,7 +142,7 @@ def check_quota(api_key):
 
 
 # ═════════════════════════════════════════════════════════════
-#  STAGE 1 — Download AbuseIPDB Blacklist
+#  STAGE 1 - Download AbuseIPDB Blacklist
 # ═════════════════════════════════════════════════════════════
 
 def download_blacklist(api_key):
@@ -173,7 +173,7 @@ def download_blacklist(api_key):
 
 
 # ═════════════════════════════════════════════════════════════
-#  STAGE 2 — Geolocate All IPs via ip-api.com (free, no key)
+#  STAGE 2 - Geolocate All IPs via ip-api.com (free, no key)
 # ═════════════════════════════════════════════════════════════
 
 def geolocate_and_filter(blacklist, max_eu_checks):
@@ -235,7 +235,7 @@ def geolocate_and_filter(blacklist, max_eu_checks):
 
 
 # ═════════════════════════════════════════════════════════════
-#  STAGE 3 — Enrich European IPs via AbuseIPDB /check
+#  STAGE 3 - Enrich European IPs via AbuseIPDB /check
 # ═════════════════════════════════════════════════════════════
 
 def enrich_european_ips(european_candidates, ip_to_country, api_key, quota_remaining, max_eu_checks):
