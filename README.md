@@ -26,7 +26,7 @@ To run the project, you will need a free API key from AbuseIPDB. No credit card 
 ```python
 ABUSEIPDB_API_KEY = os.environ.get("ABUSEIPDB_API_KEY", "PASTE_YOUR_KEY_HERE")
 ```
-The free tier of AbuseIPDB allows 1,000 API requests per day, resetting at midnight UTC (1:00 AM Prague / CET). The free tier of ip-api.com allows 15 batch requests per minute, so the geolocation stage typically takes about 7-8 minutes per run. When the script starts, it checks the remaining API quota and exits cleanly with a clear message if the daily limit has already been reached.
+The free tier of AbuseIPDB allows 1,000 API requests per day, resetting at midnight UTC. The free tier of ip-api.com allows 15 batch requests per minute, so the geolocation stage typically takes about 7-8 minutes per run. When the script starts, it checks the remaining API quota and exits cleanly with a clear message if the daily limit has already been reached.
 
 The remaining quota is read directly from the API response headers (``X-RateLimit-Remaining``) during the initial request. This ensures the script always knows exactly how many IP addresses it can process before continuing.
 
@@ -43,7 +43,7 @@ QUOTA_LIMIT     = int(test.headers.get("X-RateLimit-Limit", 1000))
 MAX_EU_CHECKS   = max(0, QUOTA_REMAINING - 3)   # safety buffer
 
 if QUOTA_REMAINING < 10:
-    print("⚠️ Not enough quota left. Come back after 1:00 AM Prague time.")
+    print("⚠️ Not enough quota left. Come back after 1:00 AM.")
 ```
 
 View my notebook with detailed steps here: [api_data_collector.ipynb](api_data_collector.ipynb)
