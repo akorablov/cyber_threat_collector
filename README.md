@@ -1,8 +1,10 @@
 # Overview
 
-This project was developed to gather and analyze malicious IP intelligence with a focus on European networks. It retrieves suspicious IP addresses from the community-driven blacklist maintained by AbuseIPDB, a platform where system administrators, hosting providers, security researchers, and automated honeypot systems report malicious activity observed on their infrastructure. Each report contributes to a confidence score, creating a continuously updated list of IP addresses suspected of participating in activities such as brute-force attacks, port scanning, spam campaigns, or other forms of abuse.
+This project collects and analyses malicious IP intelligence with a focus on European networks. It pulls suspicious IP addresses from the AbuseIPDB blacklist, a community-driven database where system administrators, hosting providers, security researchers and automated honeypot systems report malicious activity observed on their infrastructure. Each report contributes to a confidence score, building a continuously updated list of IPs associated with activities such as brute-force attacks, port scanning, spam campaigns and other forms of abuse.
 
-The project collects daily snapshots of this blacklist, filters for European IP addresses, and enriches them with additional threat intelligence such as ISP information, attack categories, and TOR exit node status. The resulting dataset acts as a structured “snapshot” of potentially malicious activity originating from European networks at a given moment in time. Over time, the accumulated data can be used to explore trends, identify which hosting providers or regions are most frequently associated with abuse reports, and build visualizations or analyses based on real-world cybersecurity data.
+Every day the pipeline takes a fresh snapshot of this blacklist, filters for European IP addresses, and enriches each record with additional context: ISP information, attack categories and TOR exit node status. The result is a structured, growing dataset that reflects potentially malicious activity originating from European networks at any given point in time.
+
+As the dataset accumulates over daily runs, it can be used to explore trends, identify which hosting providers or regions appear most frequently in abuse reports, and build visualisations or analyses grounded in real-world cybersecurity data.
 
 # What It Is Good For
 
