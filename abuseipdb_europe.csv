@@ -1,0 +1,997 @@
+﻿ip_address,country_name,abuse_score,attack_categories,total_reports,isp,is_tor,last_reported_at
+45.148.10.157,Netherlands,100,"DDoS Attack, FTP Brute-Force, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, SSH Abuse",400637,TECHOFF SRV LIMITED,False,2026-07-31
+193.46.255.86,United Kingdom,100,"Port Scan, Brute-Force, Web App Attack, SSH Abuse",113784,UNMANAGED LTD,False,2026-07-31
+91.232.247.229,Czech Republic,100,"Web Spam, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",900,ELDATA prazska s.r.o.,False,2026-07-31
+94.154.43.230,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",10167,Storm Industries LLC,False,2026-07-31
+193.163.125.79,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",11775,Driftnet Ltd,False,2026-07-31
+80.87.206.20,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",1871,Alliance LLC,False,2026-07-31
+4.184.60.71,Germany,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",799,Microsoft Corporation,False,2026-07-31
+78.128.112.6,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Exploited Host",13519,Lir.bg EOOD,False,2026-07-31
+185.247.137.21,United Kingdom,100,"DDoS Attack, Phishing, Email Spam, VPN IP, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1418,Driftnet Ltd,False,2026-07-31
+77.90.185.20,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",14793,Limited Network LTD,False,2026-07-31
+2.57.121.25,United Kingdom,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",755732,UNMANAGED LTD,False,2026-07-31
+80.94.92.55,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, SSH Abuse",19014,TECHOFF SRV LIMITED,False,2026-07-31
+34.78.29.97,Belgium,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",22533,Google LLC,False,2026-07-31
+193.124.20.231,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3189,Infrawatch Limited,False,2026-07-31
+165.245.255.222,Germany,100,"DDoS Attack, Phishing, Open Proxy, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",198,"DigitalOcean, LLC",False,2026-07-31
+91.92.40.24,Netherlands,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",4695,TechTies Inc.,False,2026-07-31
+160.119.76.24,Netherlands,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1235,HostUS Solutions LLC,False,2026-07-31
+193.32.162.15,Netherlands,100,"DDoS Attack, Brute-Force, Web App Attack, SSH Abuse",3166,UNMANAGED LTD,False,2026-07-31
+2a05:4140:3::37cd,Italy,100,"Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",43,Lumanex,False,2026-07-31
+5.252.83.162,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",483,Internet Utilities Europe and Asia Limited,False,2026-07-31
+158.177.248.200,Germany,100,"Port Scan, Brute-Force, SSH Abuse",50,International Business Machines Corporation,False,2026-07-31
+45.148.10.141,Netherlands,100,"Hacking, Brute-Force, Exploited Host, SSH Abuse",403627,TECHOFF SRV LIMITED,False,2026-07-31
+185.12.59.118,Norway,100,"Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",20577,Blix Group AS,False,2026-07-31
+47.245.139.22,Germany,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",969,Alibaba Cloud LLC,False,2026-07-31
+213.209.159.238,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",23419,Feo Prest SRL,False,2026-07-31
+94.154.43.210,Netherlands,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",674,Storm Industries LLC,False,2026-07-31
+45.148.10.151,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",400538,TECHOFF SRV LIMITED,False,2026-07-31
+165.245.253.20,Germany,100,"DDoS Attack, Phishing, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",248,"DigitalOcean, LLC",False,2026-07-31
+213.209.159.235,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",25761,Feo Prest SRL,False,2026-07-31
+77.110.107.153,Germany,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",861,GLOBAL CONNECTIVITY SOLUTIONS LLP,False,2026-07-31
+91.92.47.66,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",2873,TechTies Inc.,False,2026-07-31
+141.95.162.162,France,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",3199,OVH SAS,False,2026-07-31
+77.90.185.78,Germany,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",8188,Limited Network LTD,False,2026-07-31
+193.32.162.34,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",4571,UNMANAGED LTD,False,2026-07-31
+91.92.47.112,Netherlands,100,"DDoS Attack, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",437,TechTies Inc.,False,2026-07-31
+196.196.150.124,Spain,100,"FTP Brute-Force, Port Scan, Brute-Force, Web App Attack, SSH Abuse",6386,SA,False,2026-07-31
+193.124.20.251,Germany,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, IoT Targeted",6347,Infrawatch Limited,False,2026-07-31
+165.245.243.213,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",32,"DigitalOcean, LLC",False,2026-07-31
+45.148.10.183,Netherlands,100,"Brute-Force, Web App Attack, SSH Abuse",109356,TECHOFF SRV LIMITED,False,2026-07-31
+171.25.158.74,Sweden,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",12856,Vaxjo NET C2IP,False,2026-07-31
+193.32.162.42,Netherlands,100,"Port Scan, Brute-Force, SSH Abuse",3819,UNMANAGED LTD,False,2026-07-31
+194.88.98.116,Germany,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",3547,Infrawatch Limited,False,2026-07-31
+217.146.80.123,United Kingdom,100,"DNS Poisoning, DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",2911,Infrawatch Limited,False,2026-07-31
+91.148.190.12,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Exploited Host",40,Tamatiya EOOD,False,2026-07-31
+195.178.110.232,Andorra,100,"Hacking, Brute-Force, SSH Abuse",21509,TECHOFF SRV LIMITED,False,2026-07-31
+185.180.109.243,Netherlands,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, SSH Abuse, IoT Targeted",1394,PE Tyrin Viktor Mikhailovitch,False,2026-07-31
+213.209.159.11,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",22149,Feo Prest SRL,False,2026-07-31
+46.8.245.94,Russia,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2591,Saypudinov Ayatula,False,2026-07-31
+45.148.10.147,Netherlands,100,"DDoS Attack, FTP Brute-Force, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",402007,TECHOFF SRV LIMITED,False,2026-07-31
+91.92.42.64,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse, IoT Targeted",3784,TechTies Inc.,False,2026-07-31
+95.47.246.223,Russia,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",4117,Tiger-Telecom Ltd.,False,2026-07-31
+45.153.34.181,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",6858,TechTies Inc.,False,2026-07-31
+173.249.52.138,France,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",25823,Contabo GmbH,False,2026-07-31
+195.178.110.26,Andorra,100,"Brute-Force, SSH Abuse",61138,TECHOFF SRV LIMITED,False,2026-07-31
+206.189.19.232,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",1566,"DigitalOcean, LLC",False,2026-07-31
+84.1.34.96,Hungary,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",165,Magyar Telekom customers using static IP,False,2026-07-31
+35.210.61.208,Belgium,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",29982,Google LLC,False,2026-07-31
+161.35.205.74,Germany,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",2978,"DigitalOcean, LLC",False,2026-07-31
+45.153.34.167,Netherlands,100,"DDoS Attack, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, SSH Abuse",3893,TechTies Inc.,False,2026-07-31
+80.94.92.234,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",17814,TECHOFF SRV LIMITED,False,2026-07-31
+2.57.121.112,United Kingdom,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Bad Web Bot, SSH Abuse",794816,UNMANAGED LTD,False,2026-07-31
+196.196.150.99,Spain,100,"Hacking, Brute-Force, Web App Attack, SSH Abuse",4335,SA,False,2026-07-31
+77.239.124.242,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, SSH Abuse, IoT Targeted",1156,RocketCloud,False,2026-07-31
+195.96.139.6,United Kingdom,100,"DDoS Attack, Email Spam, VPN IP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",272,Driftnet Ltd,False,2026-07-31
+195.178.110.137,Andorra,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",31294,TECHOFF SRV LIMITED,False,2026-07-31
+87.106.44.172,United Kingdom,100,"Brute-Force, SSH Abuse",9827,IONOS SE,False,2026-07-31
+193.32.209.238,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse, IoT Targeted",3641,Infrawatch Limited,False,2026-07-31
+79.124.59.78,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",60975,Tamatiya EOOD,False,2026-07-31
+80.94.92.152,Netherlands,100,"Email Spam, Port Scan, Hacking, Brute-Force, Web App Attack",5303,TECHOFF SRV LIMITED,False,2026-07-31
+158.94.209.239,Netherlands,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Web App Attack, SSH Abuse",755,OMEGATECH,False,2026-07-31
+51.75.161.33,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1882,OVH Ltd,False,2026-07-31
+78.128.112.30,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",13272,Lir.bg EOOD,False,2026-07-31
+165.245.211.146,Germany,100,"DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",218,"DigitalOcean, LLC",False,2026-07-31
+5.226.140.75,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1734,Infrawatch Limited,False,2026-07-31
+103.14.32.224,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",5299,UCloud Hong Kong,False,2026-07-31
+217.146.80.118,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",2526,Infrawatch Limited,False,2026-07-31
+217.146.80.110,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",3171,Infrawatch Limited,False,2026-07-31
+213.209.159.236,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",22989,Feo Prest SRL,False,2026-07-31
+165.245.208.163,Germany,100,"Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",182,"DigitalOcean, LLC",False,2026-07-31
+20.100.203.84,Norway,100,"DNS Compromise, DNS Poisoning, DDoS Attack, FTP Brute-Force, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1339,Microsoft Corporation,False,2026-07-31
+185.242.3.226,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host",19960,Felcloud,False,2026-07-31
+80.82.77.139,Netherlands,100,"FTP Brute-Force, Fraud VoIP, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, IoT Targeted",34216,FiberXpress BV,False,2026-07-31
+8.211.32.231,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",959,Alibaba Cloud (Singapore) Private Limited,False,2026-07-31
+194.165.16.161,Lithuania,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",12014,Flyservers S.A.,False,2026-07-31
+5.226.140.5,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",1456,Infrawatch Limited,False,2026-07-31
+20.240.137.17,Sweden,100,"DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",674,Microsoft Corporation,False,2026-07-31
+45.135.141.23,United Kingdom,100,"Brute-Force, Web App Attack, SSH Abuse",2185,OFFICE LIMITED,False,2026-07-31
+81.19.219.201,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack",1906,Infrawatch Limited,False,2026-07-31
+188.240.59.6,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1980,Infrawatch Limited,False,2026-07-31
+81.19.219.206,United Kingdom,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1562,Infrawatch Limited,False,2026-07-31
+185.209.198.210,Sweden,100,"DDoS Attack, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",112,"31173 Services AB infrastructure in Stockholm, SE.",False,2026-07-31
+94.154.43.183,Netherlands,100,"DDoS Attack, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1611,Storm Industries LLC,False,2026-07-31
+172.213.216.126,Italy,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",607,Microsoft Limited,False,2026-07-31
+57.128.223.80,Poland,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse, IoT Targeted",4458,OVH Sp. z o. o.,False,2026-07-31
+209.99.189.177,Switzerland,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse, IoT Targeted",7332,SKN Subnet & Telecom Ltd,False,2026-07-31
+194.88.98.94,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",7623,Infrawatch Limited,False,2026-07-31
+195.154.59.122,France,100,"FTP Brute-Force, Web Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",1361,Scaleway,False,2026-07-31
+193.163.125.213,United Kingdom,100,"Open Proxy, Port Scan, Hacking, Brute-Force, Web App Attack",10585,Driftnet Ltd,False,2026-07-31
+193.163.125.209,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",10480,Driftnet Ltd,False,2026-07-31
+188.240.59.14,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host",2049,Infrawatch Limited,False,2026-07-31
+151.243.11.230,Germany,100,"DDoS Attack, Phishing, Web Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",2012,LLC VASH KREDIT BANK,False,2026-07-31
+196.196.150.100,Spain,100,"Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",4032,SA,False,2026-07-31
+77.90.185.16,Germany,100,"DDoS Attack, Web Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",17006,Limited Network LTD,False,2026-07-31
+171.25.158.82,Sweden,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse, IoT Targeted",9314,Vaxjo NET C2IP,False,2026-07-31
+169.58.45.117,France,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",94,Contabo GmbH,False,2026-07-31
+45.74.3.86,United Kingdom,100,"Fraud Orders, DDoS Attack, Phishing, Open Proxy, Web Spam, Email Spam, Blog Spam, VPN IP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",256,Virtualine Technologies,False,2026-07-31
+94.132.0.254,Portugal,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",943,NOS COMUNICACOES S.A.,False,2026-07-31
+45.82.76.107,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",6181,Detai Prosperous Technologies Limited,False,2026-07-31
+91.92.40.18,Netherlands,100,"DDoS Attack, FTP Brute-Force, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1409,TechTies Inc.,False,2026-07-31
+91.148.190.15,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",34,Tamatiya EOOD,False,2026-07-31
+5.253.38.188,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",1772,Internet Utilities Europe and Asia Limited,False,2026-07-31
+151.243.11.233,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, IoT Targeted",2126,LLC VASH KREDIT BANK,False,2026-07-31
+51.195.223.189,United Kingdom,100,"Port Scan, Brute-Force, SSH Abuse",31,OVH Ltd,False,2026-07-31
+89.37.172.145,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",1961,Infrawatch Limited,False,2026-07-31
+165.232.122.132,Germany,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",195,"DigitalOcean, LLC",False,2026-07-31
+158.158.76.249,Spain,100,"DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",27,Microsoft Singapore Pte. Ltd.,False,2026-07-31
+20.203.142.71,Switzerland,100,"DDoS Attack, Web Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1510,Microsoft Corporation,False,2026-07-31
+69.5.169.146,Germany,100,"DDoS Attack, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3182,Infrawatch Limited,False,2026-07-31
+141.94.94.95,France,100,"DDoS Attack, Open Proxy, VPN IP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",114,OVH SAS,False,2026-07-31
+85.11.167.228,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",3109,TechTies Inc.,False,2026-07-31
+5.226.140.23,United Kingdom,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1406,Infrawatch Limited,False,2026-07-31
+47.254.171.212,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack",918,Alibaba Cloud - DE,False,2026-07-31
+154.16.44.100,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",54,Digital Energy Technologies Limited,False,2026-07-31
+154.16.44.138,United Kingdom,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",429,Digital Energy Technologies Limited,False,2026-07-31
+51.89.166.236,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",12924,OVH Ltd,False,2026-07-31
+131.123.42.114,Moldova,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",214,AlexHost BG NET,False,2026-07-31
+154.16.44.68,United Kingdom,100,"DNS Poisoning, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",162,Digital Energy Technologies Limited,False,2026-07-31
+193.176.29.5,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack",2610,Infrawatch Limited,False,2026-07-31
+193.163.125.35,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",10935,Driftnet Ltd,False,2026-07-31
+45.153.34.186,Netherlands,100,"DDoS Attack, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",6917,TechTies Inc.,False,2026-07-31
+194.180.48.211,Germany,100,"Port Scan, Hacking",1859,Neterra Ltd.,False,2026-07-31
+195.93.244.97,Netherlands,100,"DDoS Attack, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1744,FS LLC,False,2026-07-31
+79.137.76.231,France,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",4626,OVH SAS,False,2026-07-31
+192.250.229.92,Germany,100,"Web Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",100,WHG Hosting Services Ltd,False,2026-07-31
+195.96.139.12,United Kingdom,100,"DDoS Attack, Phishing, Email Spam, VPN IP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",272,Driftnet Ltd,False,2026-07-31
+51.75.23.111,France,100,"DDoS Attack, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",519,OVH SAS,False,2026-07-31
+194.180.48.31,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",4563,Neterra Ltd.,False,2026-07-31
+85.217.140.23,France,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",13063,NL MODAT,False,2026-07-31
+79.137.64.41,France,100,"DDoS Attack, Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",334,OVH SAS,False,2026-07-31
+195.140.214.22,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",5531,Infrawatch Limited,False,2026-07-31
+185.242.3.195,Germany,100,"Brute-Force, Exploited Host, SSH Abuse",29106,Felcloud,False,2026-07-31
+193.163.125.44,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",11275,Driftnet Ltd,False,2026-07-31
+45.148.10.240,Netherlands,100,"Port Scan, Brute-Force, SSH Abuse",178939,TECHOFF SRV LIMITED,False,2026-07-31
+45.133.173.67,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host",710,Internet Utilities Europe and Asia Limited,False,2026-07-31
+217.154.38.181,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",21034,IONOS SE,False,2026-07-31
+154.16.44.77,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",921,Digital Energy Technologies Limited,False,2026-07-31
+85.217.140.12,France,100,"Port Scan, Hacking, Brute-Force, Web App Attack",18112,NL MODAT,False,2026-07-31
+89.21.67.175,Netherlands,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",2729,Infrawatch Limited,False,2026-07-31
+5.252.83.126,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",285,Internet Utilities Europe and Asia Limited,False,2026-07-31
+2.57.17.175,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host",204,Internet Utilities Europe and Asia Limited,False,2026-07-31
+45.198.224.26,Sweden,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1981,VPSVAULT.HOST LTD,False,2026-07-31
+79.136.18.51,Sweden,100,"Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",291,Bahnhof AB,False,2026-07-31
+2.57.17.129,United Kingdom,100,"Port Scan, Hacking, Brute-Force",212,Internet Utilities Europe and Asia Limited,False,2026-07-31
+88.218.121.220,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack",614,CLODO CLOUD SERVICE CO. L.L.C,False,2026-07-31
+69.5.169.180,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3916,Infrawatch Limited,False,2026-07-31
+195.222.57.190,Bosnia,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",4257,Public Enterprise BH Telecom DD,False,2026-07-31
+2.57.17.14,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host",247,Internet Utilities Europe and Asia Limited,False,2026-07-31
+64.89.161.184,Luxembourg,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, SSH Abuse",693,Ghosty Networks LLC,False,2026-07-31
+69.5.169.103,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3526,Infrawatch Limited,False,2026-07-31
+69.5.169.104,Germany,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",3543,Infrawatch Limited,False,2026-07-31
+5.252.226.244,Germany,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",114,netcup GmbH,False,2026-07-31
+54.37.235.85,Poland,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1054,OVH Sp. z o. o.,False,2026-07-31
+178.213.114.194,Russia,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",356,Korporatvniy partner Ltd,False,2026-07-31
+69.5.169.32,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3191,Infrawatch Limited,False,2026-07-31
+193.163.125.32,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",11064,Driftnet Ltd,False,2026-07-31
+185.223.235.33,Netherlands,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",2367,Infrawatch Limited,False,2026-07-31
+213.176.16.218,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1267,GLOBAL CONNECTIVITY SOLUTIONS LLP,False,2026-07-31
+91.92.47.81,Netherlands,100,"DDoS Attack, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",451,TechTies Inc.,False,2026-07-31
+157.245.69.67,Netherlands,100,"Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse, IoT Targeted",4012,"DigitalOcean, LLC",False,2026-07-31
+68.221.186.136,Spain,100,"DDoS Attack, Web Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",221,Microsoft Corporation,False,2026-07-31
+185.189.182.234,Netherlands,100,"DDoS Attack, Phishing, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",14110,NubaCloud B.V.,False,2026-07-31
+188.240.59.45,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",1918,Infrawatch Limited,False,2026-07-31
+45.148.10.152,Netherlands,100,"DDoS Attack, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",399485,TECHOFF SRV LIMITED,False,2026-07-31
+195.96.139.14,United Kingdom,100,"DDoS Attack, Web Spam, Email Spam, Blog Spam, VPN IP, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",274,Driftnet Ltd,False,2026-07-31
+193.176.31.201,Netherlands,100,"FTP Brute-Force, Fraud VoIP, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3173,Infrawatch Limited,False,2026-07-31
+69.5.169.209,Germany,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3972,Infrawatch Limited,False,2026-07-31
+193.124.20.250,Germany,100,"DDoS Attack, Fraud VoIP, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, IoT Targeted",6616,Infrawatch Limited,False,2026-07-31
+77.239.124.246,Netherlands,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",1206,RocketCloud,False,2026-07-31
+69.5.169.234,Germany,100,"DDoS Attack, Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3474,Infrawatch Limited,False,2026-07-31
+193.124.20.235,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse, IoT Targeted",3553,Infrawatch Limited,False,2026-07-31
+94.159.116.131,Russia,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",514,New Hosting Technologies LLC,False,2026-07-31
+69.5.169.132,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",4201,Infrawatch Limited,False,2026-07-31
+69.5.169.150,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, IoT Targeted",3341,Infrawatch Limited,False,2026-07-31
+185.223.235.27,Netherlands,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse, IoT Targeted",2000,Infrawatch Limited,False,2026-07-31
+69.5.169.191,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",2971,Infrawatch Limited,False,2026-07-31
+69.5.169.194,Germany,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3210,Infrawatch Limited,False,2026-07-31
+51.75.27.166,France,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",7987,OVH SAS,False,2026-07-31
+152.32.157.173,United Kingdom,100,"Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",9783,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,False,2026-07-31
+193.163.125.189,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",10614,Driftnet Ltd,False,2026-07-31
+149.202.50.58,France,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",1204,OVH SAS,False,2026-07-31
+77.239.124.239,Netherlands,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",1206,RocketCloud,False,2026-07-31
+165.154.138.85,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",3647,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,False,2026-07-31
+176.65.148.156,Netherlands,100,"Port Scan, Brute-Force, Web App Attack, SSH Abuse",11330,Pfcloud UG,False,2026-07-31
+195.178.110.31,Andorra,100,"DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3614,TECHOFF SRV LIMITED,False,2026-07-31
+216.226.77.20,United Kingdom,100,"DDoS Attack, Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",2293,Valence Technology Co.,False,2026-07-31
+45.148.10.62,Netherlands,100,"DDoS Attack, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",10054,TECHOFF SRV LIMITED,False,2026-07-31
+79.124.56.138,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",13490,Tamatiya EOOD,False,2026-07-31
+87.236.176.19,United Kingdom,100,"DDoS Attack, Email Spam, VPN IP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1307,Driftnet Ltd,False,2026-07-31
+79.124.49.174,Bulgaria,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",14553,Tamatiya EOOD,False,2026-07-31
+95.85.28.210,Netherlands,100,"Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",195,"DigitalOcean, LLC",False,2026-07-31
+193.32.209.239,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2980,Infrawatch Limited,False,2026-07-31
+193.176.29.20,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2075,Infrawatch Limited,False,2026-07-31
+194.50.235.132,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",2838,Infrawatch Limited,False,2026-07-31
+31.14.254.30,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1175,Infrawatch Limited,False,2026-07-31
+47.254.172.138,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1029,Alibaba Cloud - DE,False,2026-07-31
+5.226.140.15,United Kingdom,100,"Open Proxy, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1411,Infrawatch Limited,False,2026-07-31
+69.5.169.166,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3699,Infrawatch Limited,False,2026-07-31
+89.248.173.160,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",378,FiberXpress BV,False,2026-07-31
+69.5.169.72,Germany,100,"DNS Compromise, DNS Poisoning, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3012,Infrawatch Limited,False,2026-07-31
+194.187.176.56,Germany,100,"Fraud VoIP, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",581,Alpha Strike Labs GmbH,False,2026-07-31
+213.209.159.226,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",26247,Feo Prest SRL,False,2026-07-31
+195.178.110.155,Andorra,100,"DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",4007,TECHOFF SRV LIMITED,False,2026-07-31
+5.187.35.26,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot",27659,Amarutu Technology Ltd,False,2026-07-31
+172.94.9.37,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",533,Secure Internet LLC (UK),False,2026-07-31
+69.5.169.170,Germany,100,"DNS Poisoning, DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3494,Infrawatch Limited,False,2026-07-31
+193.32.162.9,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack",1439,UNMANAGED LTD,False,2026-07-31
+80.99.42.244,Hungary,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse, IoT Targeted",44,2Connect Telecommunications Infrastructure & Network Services Ltd.,False,2026-07-31
+54.37.10.124,United Kingdom,100,"Port Scan, Brute-Force, Web App Attack, SSH Abuse",1329,OVH SAS,False,2026-07-31
+80.82.77.33,Netherlands,100,"DDoS Attack, Fraud VoIP, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",33506,FiberXpress BV,False,2026-07-31
+2.26.230.250,Germany,100,"Port Scan, Brute-Force, Bad Web Bot",207,play2go.cloud - Cheap and reliable hosting,False,2026-07-31
+64.89.160.39,Luxembourg,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Web App Attack, IoT Targeted",837,Ghosty Networks LLC,False,2026-07-31
+185.216.145.175,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",3034,Infrawatch Limited,False,2026-07-31
+79.124.40.110,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Exploited Host",18932,Tamatiya EOOD,False,2026-07-31
+81.19.216.87,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, SQL Injection, Brute-Force, Web App Attack, SSH Abuse",2595,Infrawatch Limited,False,2026-07-31
+176.65.148.84,Netherlands,100,"FTP Brute-Force, Port Scan, Brute-Force",13465,Pfcloud UG,False,2026-07-31
+213.177.179.62,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",8822,wcd,False,2026-07-31
+216.226.76.30,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",5772,Valence Technology Co.,False,2026-07-31
+57.129.15.177,Germany,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",1238,OVH GmbH,False,2026-07-31
+78.128.114.174,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",12136,Tamatiya EOOD,False,2026-07-31
+194.88.98.104,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3246,Infrawatch Limited,False,2026-07-31
+178.173.255.106,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",105,SIA VEESP,False,2026-07-31
+213.166.84.34,United Kingdom,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",2590,Infrawatch Limited,False,2026-07-31
+185.224.128.16,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",65252,Alsycon B.V.,False,2026-07-31
+94.25.40.30,Russia,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2686,JSC Rostelecom client (city Komsomolsk-na-Amure) 08-14445,False,2026-07-31
+45.91.64.7,Russia,100,"DDoS Attack, Fraud VoIP, Open Proxy, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",21361,F6,False,2026-07-31
+193.124.20.227,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",3300,Infrawatch Limited,False,2026-07-31
+5.226.140.16,United Kingdom,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",1196,Infrawatch Limited,False,2026-07-31
+209.99.185.118,Switzerland,100,"DNS Compromise, DDoS Attack, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",296,SKN Subnet & Telecom Ltd,False,2026-07-31
+78.128.112.146,Bulgaria,100,"Port Scan, Hacking, Brute-Force",9345,Lir.bg EOOD,False,2026-07-31
+69.5.169.22,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2693,Infrawatch Limited,False,2026-07-31
+5.226.140.44,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",1332,Infrawatch Limited,False,2026-07-31
+20.229.115.183,Netherlands,100,"Brute-Force, Web App Attack, SSH Abuse",5264,Microsoft Corporation,False,2026-07-31
+193.163.125.122,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",11921,Driftnet Ltd,False,2026-07-31
+20.13.164.162,Ireland,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse, IoT Targeted",5700,Microsoft Corporation,False,2026-07-31
+164.92.246.145,Germany,100,"DDoS Attack, Phishing, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",172,"DigitalOcean, LLC",False,2026-07-31
+51.89.61.82,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, SSH Abuse",37,OVH Srl,False,2026-07-31
+185.107.80.93,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",15879,Serverhosting,False,2026-07-31
+45.133.173.215,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",244,Internet Utilities Europe and Asia Limited,False,2026-07-31
+88.210.63.69,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host",33420,Local NCC Ltd.,False,2026-07-31
+85.217.140.30,France,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Exploited Host",13233,NL MODAT,False,2026-07-31
+69.5.169.236,Germany,100,"DDoS Attack, Fraud VoIP, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",4145,Infrawatch Limited,False,2026-07-31
+213.177.179.91,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",7971,wcd,False,2026-07-31
+217.160.226.51,Spain,100,"DDoS Attack, FTP Brute-Force, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, SSH Abuse",8578,IONOS SE,False,2026-07-31
+79.32.45.173,Italy,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",159,Telecom Italia S.p.A.,False,2026-07-31
+94.61.159.91,Portugal,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2070,DSL-ULL,False,2026-07-31
+109.205.211.97,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack",1427,ColocationX,False,2026-07-31
+78.153.140.150,United Kingdom,100,"DDoS Attack, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",89,HOSTGLOBAL.PLUS LTD,False,2026-07-31
+185.177.72.17,France,100,"DDoS Attack, Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3555,FBW NETWORKS SAS,False,2026-07-31
+164.92.181.204,Germany,100,"DDoS Attack, Phishing, Fraud VoIP, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",193,"DigitalOcean, LLC",False,2026-07-31
+45.82.76.118,United Kingdom,100,"Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",6172,Detai Prosperous Technologies Limited,False,2026-07-31
+176.65.149.64,Netherlands,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, SSH Abuse",16783,Pfcloud UG,False,2026-07-31
+45.156.87.216,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",7371,TechTies Inc.,False,2026-07-31
+94.154.43.114,Netherlands,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1197,Storm Industries LLC,False,2026-07-31
+5.252.83.100,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",273,Internet Utilities Europe and Asia Limited,False,2026-07-31
+92.5.66.49,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",202,Oracle Svenska AB,False,2026-07-31
+45.82.76.130,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",5971,Detai Prosperous Technologies Limited,False,2026-07-31
+195.178.110.228,Andorra,100,"Brute-Force, Web App Attack, SSH Abuse",21140,TECHOFF SRV LIMITED,False,2026-07-31
+185.79.139.16,Finland,100,"Phishing, Email Spam, Spoofing, Brute-Force, Web App Attack, SSH Abuse",3617,Baykov Ilya Sergeevich,False,2026-07-31
+195.96.139.36,United Kingdom,100,"DDoS Attack, Email Spam, VPN IP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",277,Driftnet Ltd,False,2026-07-31
+217.146.80.108,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host",3199,Infrawatch Limited,False,2026-07-31
+104.28.158.16,France,100,"DDoS Attack, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",70,"Cloudflare, Inc.",False,2026-07-31
+64.89.161.160,Luxembourg,100,"DDoS Attack, Phishing, Open Proxy, Web Spam, Email Spam, VPN IP, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",2191,Ghosty Networks LLC,False,2026-07-31
+77.239.124.248,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",1244,RocketCloud,False,2026-07-31
+167.233.21.86,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",117,Hetzner Online GmbH,False,2026-07-31
+47.245.143.56,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",934,Alibaba Cloud LLC,False,2026-07-31
+94.154.43.43,Netherlands,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3328,Storm Industries LLC,False,2026-07-31
+46.101.235.18,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",1668,"DigitalOcean, LLC",False,2026-07-31
+45.82.76.114,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",6162,Detai Prosperous Technologies Limited,False,2026-07-31
+45.156.87.207,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host",1286,TechTies Inc.,False,2026-07-31
+69.5.169.140,Germany,100,"DDoS Attack, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3866,Infrawatch Limited,False,2026-07-31
+69.5.169.196,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3840,Infrawatch Limited,False,2026-07-31
+178.185.129.2,Russia,100,"DDoS Attack, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",606,PJSC Rostelecom,False,2026-07-31
+69.5.169.189,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3891,Infrawatch Limited,False,2026-07-31
+209.99.190.126,Switzerland,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Phishing, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",572,SKN Subnet & Telecom Ltd,False,2026-07-31
+213.209.159.113,Germany,100,"Port Scan, Hacking, Brute-Force, Web App Attack",5698,Feo Prest SRL,False,2026-07-31
+45.82.76.134,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",6149,Detai Prosperous Technologies Limited,False,2026-07-31
+156.227.235.77,Russia,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",708,Cloud Innovation Ltd,False,2026-07-31
+93.152.221.213,Germany,100,"DDoS Attack, FTP Brute-Force, Ping of Death, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",83,TechTies Inc.,False,2026-07-31
+23.161.169.62,United Kingdom,100,"DDoS Attack, Open Proxy, Web Spam, VPN IP, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",957,"Infraly, LLC",False,2026-07-31
+139.100.207.64,Russia,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",302,Selectel Network,False,2026-07-31
+20.215.211.95,Poland,100,"DDoS Attack, Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",564,Microsoft Corporation,False,2026-07-31
+195.178.110.217,Andorra,100,"Port Scan, Brute-Force, Web App Attack, SSH Abuse",21579,TECHOFF SRV LIMITED,False,2026-07-31
+37.10.113.219,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",5487,Infrawatch Limited,False,2026-07-31
+138.124.20.112,Poland,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",14801,Plant Holding GmbH,False,2026-07-31
+51.15.115.141,Netherlands,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, IoT Targeted",2232,"Scaleway - Amsterdam, Netherlands",False,2026-07-31
+141.94.94.46,France,100,"DDoS Attack, Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",121,OVH SAS,False,2026-07-31
+34.159.18.221,Germany,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",2142,Google LLC,False,2026-07-31
+196.196.53.4,Latvia,100,"Phishing, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",224,SA,False,2026-07-31
+192.253.248.59,United Kingdom,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Web App Attack",3223,Secure Internet LLC (UK),False,2026-07-31
+176.65.149.55,Netherlands,100,"Port Scan, Brute-Force, SSH Abuse",16090,Pfcloud UG,False,2026-07-31
+91.92.42.126,Netherlands,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",2930,TechTies Inc.,False,2026-07-31
+57.129.81.227,Germany,100,"DDoS Attack, Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",638,OVH GmbH,False,2026-07-31
+141.94.76.134,France,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",700,OVH SAS,False,2026-07-31
+51.15.44.6,Netherlands,100,"DDoS Attack, Phishing, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",2082,ONLINE SAS NL,False,2026-07-31
+188.240.59.54,United Kingdom,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2346,Infrawatch Limited,False,2026-07-31
+176.65.149.27,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",7223,Pfcloud UG,False,2026-07-31
+69.5.169.87,Germany,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",3472,Infrawatch Limited,False,2026-07-31
+51.158.173.124,Netherlands,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",893,"Scaleway - Amsterdam, Netherlands",False,2026-07-31
+69.5.169.11,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3294,Infrawatch Limited,False,2026-07-31
+69.5.169.155,Germany,100,"Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",4095,Infrawatch Limited,False,2026-07-31
+69.5.169.61,Germany,100,"DDoS Attack, Fraud VoIP, Port Scan, Hacking, Brute-Force, Exploited Host, IoT Targeted",3190,Infrawatch Limited,False,2026-07-31
+87.236.176.15,United Kingdom,100,"DNS Poisoning, DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1349,Driftnet Ltd,False,2026-07-31
+94.154.43.178,Netherlands,100,"DDoS Attack, FTP Brute-Force, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1585,Storm Industries LLC,False,2026-07-31
+69.5.169.92,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3579,Infrawatch Limited,False,2026-07-31
+185.223.235.50,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",2298,Infrawatch Limited,False,2026-07-31
+193.176.31.246,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",1695,Infrawatch Limited,False,2026-07-31
+185.2.80.253,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",1193,WorldStream B.V.,False,2026-07-31
+207.154.221.67,Germany,100,"DNS Compromise, DDoS Attack, Phishing, Fraud VoIP, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",166,"DigitalOcean, LLC",False,2026-07-31
+69.5.169.18,Germany,100,"FTP Brute-Force, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3806,Infrawatch Limited,False,2026-07-31
+164.90.233.45,Germany,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",196,"DigitalOcean, LLC",False,2026-07-31
+94.154.43.140,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3685,Storm Industries LLC,False,2026-07-31
+20.203.133.142,Switzerland,100,"DDoS Attack, Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",991,Microsoft Corporation,False,2026-07-31
+193.124.20.252,Germany,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",6428,Infrawatch Limited,False,2026-07-31
+194.156.249.154,Ukraine,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1580,Scientific-Production Enterprise Information Technologies Ltd,False,2026-07-31
+31.14.254.65,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack",1092,Infrawatch Limited,False,2026-07-31
+69.5.169.41,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",4106,Infrawatch Limited,False,2026-07-31
+31.14.32.7,Netherlands,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",16606,NewVM B.V.,False,2026-07-31
+51.68.120.86,France,100,"Port Scan, Brute-Force, Web App Attack, SSH Abuse",85,OVH SAS,False,2026-07-31
+69.5.169.193,Germany,100,"DDoS Attack, Open Proxy, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, IoT Targeted",4135,Infrawatch Limited,False,2026-07-31
+213.209.159.227,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",24982,Feo Prest SRL,False,2026-07-31
+176.65.148.243,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",7809,Pfcloud UG,False,2026-07-31
+45.156.87.147,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",6732,TechTies Inc.,False,2026-07-31
+4.225.166.222,Sweden,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",441,Microsoft Corporation,False,2026-07-31
+89.37.172.157,United Kingdom,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3246,Infrawatch Limited,False,2026-07-31
+91.239.211.68,Germany,100,"DNS Compromise, DNS Poisoning, DDoS Attack, FTP Brute-Force, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",464,Fabian Hars,False,2026-07-31
+93.152.221.50,Germany,100,"DDoS Attack, Open Proxy, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",313,TechTies Inc.,False,2026-07-31
+87.236.176.20,United Kingdom,100,"DDoS Attack, FTP Brute-Force, Email Spam, VPN IP, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1288,Driftnet Ltd,False,2026-07-31
+45.8.148.151,Germany,100,"Web Spam, Hacking, Brute-Force, Bad Web Bot, Web App Attack",1208,Contabo GmbH,False,2026-07-31
+45.67.216.83,France,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",352,Contabo GmbH,False,2026-07-31
+93.94.141.115,Bulgaria,100,"Brute-Force, SSH Abuse",9630,Bulgartel AD,False,2026-07-31
+51.68.107.144,France,100,"DDoS Attack, Open Proxy, Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",1396,OVH SAS,False,2026-07-31
+195.178.110.100,Andorra,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",2070,TECHOFF SRV LIMITED,False,2026-07-31
+194.187.176.244,Germany,100,"DDoS Attack, Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",578,Alpha Strike Labs GmbH,False,2026-07-31
+157.230.18.133,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",6304,"DigitalOcean, LLC",False,2026-07-31
+195.178.110.30,Andorra,100,"Port Scan, Brute-Force, SSH Abuse",356730,TECHOFF SRV LIMITED,False,2026-07-31
+69.5.169.17,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3499,Infrawatch Limited,False,2026-07-31
+192.248.150.180,United Kingdom,100,"DDoS Attack, Open Proxy, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",5567,"The Constant Company, LLC.",False,2026-07-31
+167.71.73.30,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",22,"DigitalOcean, LLC",False,2026-07-31
+81.57.15.243,Italy,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",8527,Iliad / Free SAS,False,2026-07-31
+185.223.235.45,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2206,Infrawatch Limited,False,2026-07-31
+45.154.244.149,Netherlands,100,"Port Scan, Brute-Force, Web App Attack, SSH Abuse",2509,Shereverov Marat Ahmedovich,False,2026-07-31
+195.182.16.23,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",4684,Amarutu Technology Ltd,False,2026-07-31
+74.248.96.101,Poland,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Open Proxy, Web Spam, VPN IP, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1075,Microsoft Corporation,False,2026-07-31
+45.198.224.240,Sweden,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",3632,VPSVAULT.HOST LTD,False,2026-07-31
+51.159.95.78,France,100,"FTP Brute-Force, Fraud VoIP, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",440,Scaleway,False,2026-07-31
+51.68.107.148,France,100,"DDoS Attack, Open Proxy, Web Spam, Email Spam, VPN IP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",1444,OVH SAS,False,2026-07-31
+79.104.0.82,Russia,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",20424,PJSC Vimpelcom,False,2026-07-31
+193.163.187.130,Albania,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",220,MyTv-Alb SH.P.K.,False,2026-07-31
+5.252.83.34,United Kingdom,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",267,Internet Utilities Europe and Asia Limited,False,2026-07-31
+167.71.72.95,Netherlands,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",1978,"DigitalOcean, LLC",False,2026-07-31
+45.153.34.235,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",11081,TechTies Inc.,False,2026-07-31
+20.100.169.221,Norway,100,"DDoS Attack, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",32,Microsoft Corporation,False,2026-07-31
+87.106.29.151,France,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",9155,IONOS SE,False,2026-07-31
+87.236.176.33,United Kingdom,100,"DDoS Attack, Fraud VoIP, Email Spam, VPN IP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1359,Driftnet Ltd,False,2026-07-31
+158.158.76.106,Spain,100,"DDoS Attack, Web Spam, Blog Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",695,Microsoft Singapore Pte. Ltd.,False,2026-07-31
+69.5.169.59,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3572,Infrawatch Limited,False,2026-07-31
+164.92.140.160,Germany,100,"DDoS Attack, Hacking, Brute-Force, Exploited Host, SSH Abuse",5553,"DigitalOcean, LLC",False,2026-07-31
+90.84.168.147,France,100,"Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1666,OBS OCB HONEY,False,2026-07-31
+194.88.98.115,Germany,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",3495,Infrawatch Limited,False,2026-07-31
+91.225.163.226,Ukraine,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",238,SPD Chernega Aleksandr Anatolevich,False,2026-07-31
+31.76.11.83,Germany,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",1480,play2go.cloud - Cheap and reliable hosting,False,2026-07-31
+104.28.211.187,France,100,"DNS Compromise, DDoS Attack, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1144,"Cloudflare, Inc.",False,2026-07-31
+77.239.124.247,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",1041,RocketCloud,False,2026-07-31
+51.91.96.79,France,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",915,OVH SAS,False,2026-07-31
+152.53.225.147,Germany,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",50,netcup GmbH,False,2026-07-31
+185.216.145.179,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2963,Infrawatch Limited,False,2026-07-31
+69.5.169.99,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3631,Infrawatch Limited,False,2026-07-31
+193.163.125.160,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",11160,Driftnet Ltd,False,2026-07-31
+83.97.78.224,Finland,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1287,DGTL TECH UK LLP,False,2026-07-31
+4.184.246.230,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",8624,Microsoft Corporation,False,2026-07-31
+193.163.125.164,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",11242,Driftnet Ltd,False,2026-07-31
+195.206.182.214,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2914,Infrawatch Limited,False,2026-07-31
+45.198.224.60,Sweden,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, IoT Targeted",2091,VPSVAULT.HOST LTD,False,2026-07-31
+90.162.116.66,Spain,100,"Phishing, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",3309,Orange Espagne SA,False,2026-07-31
+165.154.174.27,United Kingdom,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",8796,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,False,2026-07-31
+213.67.210.12,Sweden,100,"DDoS Attack, FTP Brute-Force, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1972,Telia Network services,False,2026-07-31
+213.166.84.61,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2918,Infrawatch Limited,False,2026-07-31
+193.163.125.87,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",11740,Driftnet Ltd,False,2026-07-31
+87.236.176.29,United Kingdom,100,"DDoS Attack, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1407,Driftnet Ltd,False,2026-07-31
+185.216.145.164,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3639,Infrawatch Limited,False,2026-07-31
+109.247.190.45,Norway,100,"Port Scan, Hacking, Brute-Force, Exploited Host",343,Lyse Tele AS,False,2026-07-31
+45.156.128.57,Netherlands,100,"DDoS Attack, Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",4708,INAP-AMS-1,False,2026-07-31
+91.92.40.37,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",4114,TechTies Inc.,False,2026-07-31
+64.89.161.91,Luxembourg,100,"Open Proxy, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2121,Ghosty Networks LLC,False,2026-07-31
+78.128.113.46,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",16703,Lir.bg EOOD,False,2026-07-31
+20.52.146.24,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",29,Microsoft Corporation,False,2026-07-31
+171.25.158.87,Sweden,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3882,Vaxjo NET C2IP,False,2026-07-31
+193.163.125.55,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",11389,Driftnet Ltd,False,2026-07-31
+69.5.169.44,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3436,Infrawatch Limited,False,2026-07-31
+193.32.162.76,Netherlands,100,"Email Spam, Hacking, Brute-Force",945,UNMANAGED LTD,False,2026-07-31
+141.98.86.147,Finland,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1097,Baykov Ilya Sergeevich,False,2026-07-31
+20.54.134.42,Netherlands,100,"Web Spam, Email Spam, Blog Spam, VPN IP, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",444,Microsoft Corporation,False,2026-07-31
+194.187.176.112,Germany,100,"DDoS Attack, Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",719,Alpha Strike Labs GmbH,False,2026-07-31
+91.92.47.35,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",2794,TechTies Inc.,False,2026-07-31
+46.163.144.31,Russia,100,"Port Scan, Brute-Force, SSH Abuse",4404,INSYS LLC,False,2026-07-31
+69.5.169.220,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3606,Infrawatch Limited,False,2026-07-31
+160.119.76.122,Netherlands,100,"DDoS Attack, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",78,HostUS Solutions LLC,False,2026-07-31
+195.178.110.227,Andorra,100,"DDoS Attack, FTP Brute-Force, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",21556,TECHOFF SRV LIMITED,False,2026-07-31
+194.187.176.30,Germany,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",580,Alpha Strike Labs GmbH,False,2026-07-31
+51.75.141.245,France,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",8739,OVH SAS,False,2026-07-31
+8.209.96.179,Germany,100,"Web Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",6358,Alibaba Cloud (Singapore) Private Limited,False,2026-07-31
+194.187.176.129,Germany,100,"Fraud VoIP, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",585,Alpha Strike Labs GmbH,False,2026-07-31
+207.154.230.149,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",8160,"DigitalOcean, LLC",False,2026-07-31
+69.5.169.24,Germany,100,"Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3422,Infrawatch Limited,False,2026-07-31
+95.90.13.168,Germany,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",25384,Vodafone GmbH,False,2026-07-31
+176.65.149.30,Netherlands,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, SSH Abuse",12538,Pfcloud UG,False,2026-07-31
+195.96.139.10,United Kingdom,100,"DDoS Attack, Phishing, Email Spam, VPN IP, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",256,Driftnet Ltd,False,2026-07-31
+104.251.181.37,Switzerland,100,"FTP Brute-Force, Web Spam, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",697,SKN Subnet & Telecom Ltd,False,2026-07-31
+194.102.73.93,Romania,100,"Port Scan, Hacking, Brute-Force, SSH Abuse, IoT Targeted",2351,Universitatea de Stiinte Agricole si Medicina Veterinara Cluj-Napoca,False,2026-07-31
+193.163.125.152,United Kingdom,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",11153,Driftnet Ltd,False,2026-07-31
+154.16.44.10,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",835,Digital Energy Technologies Limited,False,2026-07-31
+78.67.25.51,Sweden,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",98,Telia Network Services,False,2026-07-31
+154.16.44.34,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",199,Digital Energy Technologies Limited,False,2026-07-31
+152.53.111.131,Austria,100,"Web Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2461,Anexia Holding GmbH,False,2026-07-31
+78.153.140.40,United Kingdom,100,"DNS Compromise, DDoS Attack, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2834,HOSTGLOBAL.PLUS LTD,False,2026-07-31
+193.124.20.247,Germany,100,"DDoS Attack, Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",6590,Infrawatch Limited,False,2026-07-31
+86.54.31.36,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host",25821,Black HOST Ltd.,False,2026-07-31
+159.89.109.165,Germany,100,"Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",1369,"DigitalOcean, LLC",False,2026-07-31
+89.21.67.184,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",2780,Infrawatch Limited,False,2026-07-31
+43.157.95.131,Germany,100,"DDoS Attack, Web Spam, Email Spam, VPN IP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",2256,"Asia Pacific Network Information Center, Pty. Ltd.",False,2026-07-31
+185.216.145.185,United Kingdom,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",2709,Infrawatch Limited,False,2026-07-31
+185.223.235.5,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",2034,Infrawatch Limited,False,2026-07-31
+141.95.54.130,Germany,100,"Brute-Force, Web App Attack, SSH Abuse",1132,OVH GmbH,False,2026-07-31
+81.16.152.2,Austria,100,"Port Scan, Hacking, Brute-Force, Exploited Host",1776,Next Layer Telekommunikationsdienstleistungs- und Beratungs GmbH,False,2026-07-31
+138.124.30.187,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, SSH Abuse",2828,Plant Holding GmbH,False,2026-07-31
+91.92.40.36,Netherlands,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",4261,TechTies Inc.,False,2026-07-31
+5.182.209.113,Netherlands,100,"DDoS Attack, Phishing, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",9955,SpectraIP B.V.,False,2026-07-31
+87.236.176.13,United Kingdom,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1356,Driftnet Ltd,False,2026-07-31
+64.89.163.131,Germany,100,"DDoS Attack, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, IoT Targeted",3679,Meowcore Softworks LLC,False,2026-07-31
+165.232.117.238,Germany,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2353,"DigitalOcean, LLC",False,2026-07-31
+188.255.156.80,Serbia,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",100,Orion Telekom Tim d.o.o.Beograd,False,2026-07-31
+130.12.180.126,Netherlands,100,"Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",442,Virtualine Technologies,False,2026-07-31
+81.171.72.93,Germany,100,"DDoS Attack, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1410,Eweka Internet Services B.V.,False,2026-07-31
+194.88.98.87,Germany,100,"Fraud VoIP, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, IoT Targeted",7521,Infrawatch Limited,False,2026-07-31
+20.100.187.246,Norway,100,"Fraud Orders, DDoS Attack, FTP Brute-Force, Phishing, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",208,Microsoft Corporation,False,2026-07-31
+43.165.62.10,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",5215,ACEVILLE PTE.LTD.,False,2026-07-31
+185.93.89.154,Netherlands,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, SSH Abuse",3947,Limited Network LTD,False,2026-07-31
+193.176.31.211,Netherlands,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, IoT Targeted",2309,Infrawatch Limited,False,2026-07-31
+161.35.23.211,Germany,100,"DDoS Attack, FTP Brute-Force, Open Proxy, Email Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",194,"DigitalOcean, LLC",False,2026-07-31
+193.163.125.59,United Kingdom,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",11317,Driftnet Ltd,False,2026-07-31
+171.25.158.24,Sweden,100,"Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",9285,Vaxjo NET C2IP,False,2026-07-31
+64.188.83.244,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",8713,1Cent Host,False,2026-07-31
+45.135.141.7,United Kingdom,100,"Brute-Force, SSH Abuse",2217,OFFICE LIMITED,False,2026-07-31
+193.163.125.229,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",10305,Driftnet Ltd,False,2026-07-31
+185.247.137.5,United Kingdom,100,"Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1401,Driftnet Ltd,False,2026-07-31
+45.135.141.11,United Kingdom,100,"Brute-Force, SSH Abuse",1537,OFFICE LIMITED,False,2026-07-31
+91.92.240.219,Germany,100,"DDoS Attack, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",367,OMEGATECH,False,2026-07-31
+94.154.43.87,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1158,Storm Industries LLC,False,2026-07-31
+45.198.224.15,Sweden,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",4010,VPSVAULT.HOST LTD,False,2026-07-31
+176.215.66.179,Russia,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",114,JSC ER-Telecom Holding Saint-Petersburg branch,False,2026-07-31
+8.211.26.207,Germany,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",901,Alibaba Cloud (Singapore) Private Limited,False,2026-07-31
+141.98.11.11,Lithuania,100,"DDoS Attack, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",10381,UAB Host Baltic,False,2026-07-31
+46.253.45.10,Spain,100,"DDoS Attack, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse, IoT Targeted",29692,"Anxanet Operadors de Xarxes, S.L.",False,2026-07-31
+185.242.226.93,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, IoT Targeted",6215,HostUS Solutions LLC,False,2026-07-31
+82.193.122.91,Ukraine,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",5966,Industrial Media Network LLC,False,2026-07-31
+69.5.169.79,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3712,Infrawatch Limited,False,2026-07-31
+185.223.235.34,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2708,Infrawatch Limited,False,2026-07-31
+77.90.185.248,Germany,100,"Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",799,Limited Network LTD,False,2026-07-31
+69.5.169.94,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2945,Infrawatch Limited,False,2026-07-31
+209.99.185.81,Switzerland,100,"DDoS Attack, FTP Brute-Force, Phishing, Web Spam, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",301,SKN Subnet & Telecom Ltd,False,2026-07-31
+217.60.195.64,Netherlands,100,"Brute-Force, Web App Attack, SSH Abuse",232,SWISSNET LLC,False,2026-07-31
+128.14.225.164,Germany,100,"DDoS Attack, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",17457,UCLOUD,False,2026-07-31
+51.15.59.186,Netherlands,100,"Port Scan, Hacking, Brute-Force",10902,ONLINE SAS NL,False,2026-07-31
+191.101.59.16,United Kingdom,100,"Brute-Force, Web App Attack, SSH Abuse",827,Internet Utilities Europe and Asia Limited,False,2026-07-31
+69.5.169.27,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host",3571,Infrawatch Limited,False,2026-07-31
+69.5.169.63,Germany,100,"DNS Compromise, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3473,Infrawatch Limited,False,2026-07-31
+150.241.113.163,Germany,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",2902,"Cloud Hosting Solutions, Limited.",False,2026-07-31
+54.38.52.18,Poland,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",26011,OVH Sp. z o. o.,False,2026-07-31
+69.5.169.127,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse, IoT Targeted",3985,Infrawatch Limited,False,2026-07-31
+193.32.162.71,Netherlands,100,"Email Spam, Spoofing, Brute-Force, Web App Attack",5370,UNMANAGED LTD,False,2026-07-31
+194.88.98.126,Germany,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",3567,Infrawatch Limited,False,2026-07-31
+4.184.185.91,Germany,100,"Fraud Orders, DDoS Attack, FTP Brute-Force, Phishing, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",525,Microsoft Corporation,False,2026-07-31
+90.150.172.17,Russia,100,"Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",1045,Dynamic distribution IP's for broadband services,False,2026-07-31
+151.59.152.36,Italy,100,"Port Scan, Brute-Force, Web App Attack, SSH Abuse",72,WIND TRE S.P.A.,False,2026-07-31
+94.154.43.161,Netherlands,100,"Port Scan, Hacking, Brute-Force",129,Storm Industries LLC,False,2026-07-31
+213.166.84.55,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2839,Infrawatch Limited,False,2026-07-31
+2.57.122.238,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",221768,TECHOFF SRV LIMITED,False,2026-07-31
+213.166.84.53,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host",2372,Infrawatch Limited,False,2026-07-31
+23.176.184.152,Netherlands,100,"Port Scan, Brute-Force, Web App Attack",11167,Netiface Limited,False,2026-07-31
+188.240.59.58,United Kingdom,100,"FTP Brute-Force, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1502,Infrawatch Limited,False,2026-07-31
+5.252.83.223,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",216,Internet Utilities Europe and Asia Limited,False,2026-07-31
+69.5.169.85,Germany,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3515,Infrawatch Limited,False,2026-07-31
+69.5.169.161,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse, IoT Targeted",3931,Infrawatch Limited,False,2026-07-31
+45.156.87.234,Netherlands,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",2343,TechTies Inc.,False,2026-07-31
+69.5.169.91,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3581,Infrawatch Limited,False,2026-07-31
+193.176.31.227,Netherlands,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2087,Infrawatch Limited,False,2026-07-31
+194.88.98.125,Germany,100,"Fraud VoIP, Open Proxy, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, IoT Targeted",3587,Infrawatch Limited,False,2026-07-31
+91.191.209.46,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",16204,VDS and Hosting,False,2026-07-31
+179.43.134.114,Switzerland,100,"Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1138,PRIVATE LAYER INC,False,2026-07-31
+86.54.31.38,Netherlands,100,"Phishing, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",29671,Black HOST Ltd.,False,2026-07-31
+85.11.167.7,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",16853,TechTies Inc.,False,2026-07-31
+185.36.81.23,Lithuania,100,"Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",4012,Cloud hosting,False,2026-07-31
+95.52.199.137,Russia,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack",282,Komi branch of the PJSC Rostelecom North-West Region,False,2026-07-31
+171.25.158.97,Sweden,100,"Port Scan, Brute-Force, SSH Abuse",1010,Vaxjo NET C2IP,False,2026-07-31
+86.62.34.244,Austria,100,"DDoS Attack, Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",61,powered by ANX,False,2026-07-31
+209.99.188.168,Switzerland,100,"Port Scan, Hacking, Brute-Force, Exploited Host",352,SKN Subnet & Telecom Ltd,False,2026-07-31
+45.91.64.6,Russia,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",24281,F6,False,2026-07-31
+89.248.172.10,Netherlands,100,"DNS Poisoning, DDoS Attack, Fraud VoIP, Open Proxy, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2584,FiberXpress BV,False,2026-07-31
+69.5.169.40,Germany,100,"Phishing, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",3655,Infrawatch Limited,False,2026-07-31
+69.5.169.177,Germany,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",4206,Infrawatch Limited,False,2026-07-31
+85.217.140.53,France,100,"Port Scan, Hacking, Brute-Force, Exploited Host",12476,NL MODAT,False,2026-07-31
+31.77.146.148,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",232,play2go.cloud - Cheap and reliable hosting,False,2026-07-31
+47.245.143.183,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack",924,Alibaba Cloud LLC,False,2026-07-31
+160.119.76.58,Netherlands,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse, IoT Targeted",1230,HostUS Solutions LLC,False,2026-07-31
+188.240.59.53,United Kingdom,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1691,Infrawatch Limited,False,2026-07-31
+5.99.196.202,Italy,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",7496,Telecom Italia S.p.A.,False,2026-07-31
+164.92.240.151,Germany,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",1241,"DigitalOcean, LLC",False,2026-07-31
+193.180.125.157,Sweden,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",828,Kopings Kabel-TV AB,False,2026-07-31
+158.94.210.205,Netherlands,100,"Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, SSH Abuse",795,OMEGATECH,False,2026-07-31
+160.119.76.57,Netherlands,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1492,HostUS Solutions LLC,False,2026-07-31
+45.148.101.101,Finland,100,"DNS Compromise, DNS Poisoning, DDoS Attack, FTP Brute-Force, Ping of Death, Phishing, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",717,GLOBAL CONNECTIVITY SOLUTIONS LLP,False,2026-07-31
+45.142.193.169,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",24686,Limited Network LTD,False,2026-07-31
+31.14.254.16,United Kingdom,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1758,Infrawatch Limited,False,2026-07-31
+51.159.110.167,France,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",33645,Scaleway,False,2026-07-31
+31.14.254.59,United Kingdom,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",1208,Infrawatch Limited,False,2026-07-31
+188.240.59.8,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",1425,Infrawatch Limited,False,2026-07-31
+4.210.91.174,Ireland,100,"Hacking, Brute-Force, SSH Abuse",14620,Microsoft Corporation,False,2026-07-31
+193.32.209.226,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",3686,Infrawatch Limited,False,2026-07-31
+78.128.114.102,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",13804,Tamatiya EOOD,False,2026-07-31
+92.124.133.35,Russia,100,"Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack",3651,OJSC Sibirtelecom,False,2026-07-31
+89.134.215.43,Hungary,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",219,2Connect Telecommunications Infrastructure & Network Services Ltd.,False,2026-07-31
+81.177.141.233,Russia,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, SSH Abuse",1046,Avguro Technologies Ltd. Hosting service provider,False,2026-07-31
+95.87.248.223,Bulgaria,100,"Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",5538,Vivacom Bulgaria EAD,False,2026-07-31
+80.94.92.145,Netherlands,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force",5863,TECHOFF SRV LIMITED,False,2026-07-31
+193.176.29.15,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host",3143,Infrawatch Limited,False,2026-07-31
+65.21.2.176,Finland,100,"DDoS Attack, Hacking, Brute-Force, SSH Abuse",165,Hetzner Online GmbH,False,2026-07-31
+172.235.173.150,Netherlands,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3606,Linode,False,2026-07-31
+193.163.125.224,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",10226,Driftnet Ltd,False,2026-07-31
+62.210.142.166,France,100,"DNS Compromise, DDoS Attack, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",508,Scaleway Dedibox,False,2026-07-31
+45.156.87.91,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, SSH Abuse",4897,TechTies Inc.,False,2026-07-31
+87.115.187.195,United Kingdom,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",428,thn-ag1,False,2026-07-31
+92.118.39.225,Netherlands,100,"Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack",6401,DMZHOST,False,2026-07-31
+80.94.92.179,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",16787,TECHOFF SRV LIMITED,False,2026-07-31
+217.146.80.122,United Kingdom,100,"Phishing, Email Spam, Port Scan, Hacking, Brute-Force, SSH Abuse",2761,Infrawatch Limited,False,2026-07-31
+193.32.162.27,Netherlands,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",3032,UNMANAGED LTD,False,2026-07-31
+51.75.247.133,France,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse, IoT Targeted",311,OVH SAS,False,2026-07-31
+34.79.87.63,Belgium,100,"DDoS Attack, FTP Brute-Force, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, IoT Targeted",398,Google LLC,False,2026-07-31
+160.119.76.51,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1100,HostUS Solutions LLC,False,2026-07-31
+20.203.135.57,Switzerland,100,"DDoS Attack, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",622,Microsoft Corporation,False,2026-07-31
+45.133.173.196,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",210,Internet Utilities Europe and Asia Limited,False,2026-07-31
+147.45.48.189,Russia,100,"Port Scan, Hacking, Brute-Force, SSH Abuse, IoT Targeted",100,GLOBAL INTERNET SOLUTIONS LLC,False,2026-07-31
+195.230.103.249,Germany,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3842,about-asi.recordedfuture.com,False,2026-07-31
+31.41.84.98,Poland,100,"Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",4891,Telekom System sp.z o.o.,False,2026-07-31
+130.193.25.11,Germany,100,"DDoS Attack, Ping of Death, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",509,DGC AG,False,2026-07-31
+213.186.255.54,Finland,100,"Port Scan, Brute-Force, SSH Abuse",287,DNA Oyj,False,2026-07-31
+196.251.121.129,Ukraine,100,"Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",174,internet-security,False,2026-07-31
+85.217.140.34,France,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",13599,NL MODAT,False,2026-07-31
+195.206.182.208,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2500,Infrawatch Limited,False,2026-07-31
+87.106.65.126,United Kingdom,100,"FTP Brute-Force, Hacking, Brute-Force, SSH Abuse",8471,IONOS SE,False,2026-07-31
+193.163.125.61,United Kingdom,100,"Phishing, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",11452,Driftnet Ltd,False,2026-07-31
+194.88.98.120,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3474,Infrawatch Limited,False,2026-07-31
+85.217.140.42,France,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",13766,NL MODAT,False,2026-07-31
+54.38.180.48,France,100,"DDoS Attack, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, SSH Abuse",843,OVH SAS,False,2026-07-31
+69.5.169.23,Germany,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3777,Infrawatch Limited,False,2026-07-31
+90.229.186.166,Sweden,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, IoT Targeted",431,Telia Network Services,False,2026-07-31
+69.5.169.178,Germany,100,"DDoS Attack, Fraud VoIP, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3184,Infrawatch Limited,False,2026-07-31
+69.5.169.253,Germany,100,"FTP Brute-Force, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",3950,Infrawatch Limited,False,2026-07-31
+69.5.169.159,Germany,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",4050,Infrawatch Limited,False,2026-07-31
+139.162.251.127,United Kingdom,100,"DDoS Attack, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1078,139.162.0.0/16,False,2026-07-31
+45.135.193.115,Germany,100,"DNS Compromise, DNS Poisoning, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",187,Pfcloud UG,False,2026-07-31
+64.89.163.145,Germany,100,"DDoS Attack, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, SSH Abuse, IoT Targeted",2172,Meowcore Softworks LLC,False,2026-07-31
+193.124.20.254,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",6500,Infrawatch Limited,False,2026-07-31
+85.143.114.59,Russia,100,"DDoS Attack, Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",74,National Research Nuclear University 'MEPhI',False,2026-07-31
+77.239.124.249,Netherlands,100,"FTP Brute-Force, Port Scan, Brute-Force, SSH Abuse",1172,RocketCloud,False,2026-07-31
+185.93.89.39,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",3010,Limited Network LTD,False,2026-07-31
+64.89.161.56,Luxembourg,100,"Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",1488,Ghosty Networks LLC,False,2026-07-31
+93.174.93.12,Netherlands,100,"DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",27800,FiberXpress BV,False,2026-07-31
+93.197.111.26,Germany,100,"Web Spam, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",91,Deutsche Telekom AG,False,2026-07-31
+188.240.59.21,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",1835,Infrawatch Limited,False,2026-07-31
+85.217.140.49,France,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",13732,NL MODAT,False,2026-07-31
+160.119.76.46,Netherlands,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",856,HostUS Solutions LLC,False,2026-07-31
+85.152.57.60,Spain,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",5372,TeleCable,False,2026-07-31
+85.217.140.27,France,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",13214,NL MODAT,False,2026-07-31
+160.119.71.135,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host",2701,Cloud Hosting,False,2026-07-31
+147.135.252.145,France,100,"DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",362,OVH SAS,False,2026-07-31
+213.166.84.56,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",2904,Infrawatch Limited,False,2026-07-31
+5.181.124.40,United Kingdom,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",260,Internet Utilities Europe and Asia Limited,False,2026-07-31
+85.217.140.50,France,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack",13895,NL MODAT,False,2026-07-31
+54.36.99.29,France,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",5463,OVH SAS,False,2026-07-31
+89.37.172.144,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2527,Infrawatch Limited,False,2026-07-31
+31.14.254.36,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",1550,Infrawatch Limited,False,2026-07-31
+69.5.169.98,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse, IoT Targeted",3481,Infrawatch Limited,False,2026-07-31
+193.163.125.7,United Kingdom,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",10802,Driftnet Ltd,False,2026-07-31
+69.5.169.142,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3973,Infrawatch Limited,False,2026-07-31
+160.119.76.34,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack",626,HostUS Solutions LLC,False,2026-07-31
+172.187.176.207,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",33,Microsoft Limited,False,2026-07-31
+217.60.195.220,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",53,SWISSNET LLC,False,2026-07-31
+20.91.139.111,Sweden,100,"DDoS Attack, FTP Brute-Force, Ping of Death, Web Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",597,Microsoft Corporation,False,2026-07-31
+92.27.157.252,United Kingdom,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse, IoT Targeted",10756,TalkTalk Communications Limited,False,2026-07-31
+160.119.76.30,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack",639,HostUS Solutions LLC,False,2026-07-31
+64.89.163.85,Germany,100,"DDoS Attack, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3090,Meowcore Softworks LLC,False,2026-07-31
+141.98.233.84,Belgium,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",2710,GLOBAL CONNECTIVITY SOLUTIONS LLP,False,2026-07-31
+46.101.184.11,Germany,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",227,"DigitalOcean, LLC",False,2026-07-31
+20.203.148.31,Switzerland,100,"DDoS Attack, Web Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",223,Microsoft Corporation,False,2026-07-31
+31.173.66.222,Russia,100,"Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3697,PJSC MegaFon,False,2026-07-31
+195.178.110.102,Andorra,100,"DDoS Attack, Web Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2744,TECHOFF SRV LIMITED,False,2026-07-31
+196.196.150.5,Spain,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",6329,SA,False,2026-07-31
+46.44.0.185,Russia,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3043,LLC TRC FIORD,False,2026-07-31
+62.133.60.87,Germany,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",4659,GLOBAL CONNECTIVITY SOLUTIONS LLP,False,2026-07-31
+78.197.6.173,France,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",4142,Free SAS,False,2026-07-31
+130.12.182.230,Slovenia,100,"DDoS Attack, Open Proxy, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",400,Netiface LLC,False,2026-07-31
+159.195.67.193,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",76,netcup GmbH,False,2026-07-31
+164.92.211.134,Netherlands,100,"Web Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",529,"DigitalOcean, LLC",False,2026-07-31
+79.124.49.226,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",18333,Tamatiya EOOD,False,2026-07-31
+2.57.122.13,Netherlands,100,"DDoS Attack, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1811,TECHOFF SRV LIMITED,False,2026-07-31
+195.140.214.29,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",6117,Infrawatch Limited,False,2026-07-31
+188.43.204.45,Russia,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3924,TTK,False,2026-07-31
+5.226.140.86,United Kingdom,100,"DDoS Attack, Phishing, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1090,Infrawatch Limited,False,2026-07-31
+81.19.219.229,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1485,Infrawatch Limited,False,2026-07-31
+45.82.76.135,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",6102,Detai Prosperous Technologies Limited,False,2026-07-31
+193.32.209.240,United Kingdom,100,"Phishing, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3491,Infrawatch Limited,False,2026-07-31
+5.226.140.105,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1182,Infrawatch Limited,False,2026-07-31
+195.178.110.132,Andorra,100,"DDoS Attack, Web Spam, Email Spam, VPN IP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",6354,TECHOFF SRV LIMITED,False,2026-07-31
+80.94.92.109,Netherlands,100,"Email Spam, Hacking, Brute-Force, Web App Attack, SSH Abuse",4880,TECHOFF SRV LIMITED,False,2026-07-31
+188.240.59.56,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",2367,Infrawatch Limited,False,2026-07-31
+64.89.163.164,Germany,100,"DDoS Attack, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack",1475,Meowcore Softworks LLC,False,2026-07-31
+84.82.14.214,Netherlands,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1049,KPN B.V.,False,2026-07-31
+34.1.169.230,Germany,100,"DDoS Attack, FTP Brute-Force, Ping of Death, Phishing, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",94,Google LLC,False,2026-07-31
+217.60.195.58,Netherlands,100,"Port Scan, Brute-Force, SSH Abuse",214,SWISSNET LLC,False,2026-07-31
+193.124.20.234,Germany,100,"DDoS Attack, Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, IoT Targeted",3553,Infrawatch Limited,False,2026-07-31
+77.87.40.114,Ukraine,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",25343,Znet,False,2026-07-31
+79.124.58.142,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",22154,Tamatiya EOOD,False,2026-07-31
+91.92.47.203,Netherlands,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",254,TechTies Inc.,False,2026-07-31
+94.159.105.176,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host",350,H2.NEXUS Frankfurt Network,False,2026-07-31
+85.11.167.16,Netherlands,100,"DDoS Attack, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",754,TechTies Inc.,False,2026-07-31
+51.7.22.37,United Kingdom,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, SSH Abuse, IoT Targeted",197,PlusNet plc.,False,2026-07-31
+92.118.39.171,Netherlands,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",1693,DMZHOST,False,2026-07-31
+45.153.34.137,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, SSH Abuse",3618,TechTies Inc.,False,2026-07-31
+146.59.32.16,Poland,100,"Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Web App Attack, SSH Abuse",7781,OVH Sp. z o. o.,False,2026-07-31
+193.163.125.236,United Kingdom,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",10454,Driftnet Ltd,False,2026-07-31
+194.187.176.216,Germany,100,"DDoS Attack, Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",599,Alpha Strike Labs GmbH,False,2026-07-31
+185.177.72.68,France,100,"DDoS Attack, Web Spam, Email Spam, VPN IP, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2743,FBW NETWORKS SAS,False,2026-07-31
+57.129.47.135,Germany,100,"Port Scan, Brute-Force, Web App Attack, SSH Abuse",2630,OVH GmbH,False,2026-07-31
+64.89.163.9,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1443,Meowcore Softworks LLC,False,2026-07-31
+194.88.98.109,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, IoT Targeted",3184,Infrawatch Limited,False,2026-07-31
+89.33.25.241,Romania,100,"Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Web App Attack, SSH Abuse",1278,ROMARG SRL,False,2026-07-31
+85.195.9.20,Sweden,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",2857,Bng; gbg,False,2026-07-31
+193.32.209.232,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack",2364,Infrawatch Limited,False,2026-07-31
+37.10.113.220,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",5609,Infrawatch Limited,False,2026-07-31
+5.226.140.102,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1248,Infrawatch Limited,False,2026-07-31
+178.104.40.197,Germany,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",270,Hetzner Online GmbH,False,2026-07-31
+31.14.254.60,United Kingdom,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1050,Infrawatch Limited,False,2026-07-31
+31.14.254.75,United Kingdom,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1411,Infrawatch Limited,False,2026-07-31
+45.82.109.136,Finland,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",4389,Pyhanet Oy,False,2026-07-31
+20.113.56.22,Germany,100,"DDoS Attack, Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1130,Microsoft Corporation,False,2026-07-31
+157.90.253.59,Germany,100,"Port Scan, Brute-Force, SSH Abuse",37,Hetzner Online GmbH,False,2026-07-31
+31.14.254.92,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",1029,Infrawatch Limited,False,2026-07-31
+213.235.27.2,France,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",376,Kinepolis,False,2026-07-31
+103.177.248.116,Sweden,100,"DDoS Attack, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",90,Hostup AB,False,2026-07-31
+46.232.235.3,Germany,100,"DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",54,NextServ LLC,False,2026-07-31
+69.5.169.69,Germany,100,"DDoS Attack, Ping of Death, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3250,Infrawatch Limited,False,2026-07-31
+62.210.89.150,France,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1093,Scaleway Dedibox,False,2026-07-31
+5.101.64.6,Russia,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",22871,public vlans of DC,False,2026-07-31
+91.92.40.153,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",4361,TechTies Inc.,False,2026-07-31
+78.44.192.210,Czech Republic,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",12131,Vodafone Broadband Internet Services,False,2026-07-31
+213.209.159.25,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3912,Feo Prest SRL,False,2026-07-31
+91.238.181.92,France,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",8305,VDS&VPN services,False,2026-07-31
+69.5.169.124,Germany,100,"DNS Poisoning, DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse, IoT Targeted",2931,Infrawatch Limited,False,2026-07-31
+141.94.161.61,France,100,"Web Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",170,OVH SAS,False,2026-07-31
+46.101.216.224,Germany,100,"Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Web App Attack, SSH Abuse",7549,"DigitalOcean, LLC",False,2026-07-31
+81.19.216.85,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3062,Infrawatch Limited,False,2026-07-31
+51.103.46.9,France,100,"DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",559,Microsoft Limited,False,2026-07-31
+216.226.76.20,United Kingdom,100,"DNS Poisoning, DDoS Attack, Fraud VoIP, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",5664,Valence Technology Co.,False,2026-07-31
+213.209.159.26,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",4093,Feo Prest SRL,False,2026-07-31
+5.226.140.49,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack",1803,Infrawatch Limited,False,2026-07-31
+109.49.6.114,Portugal,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1032,"NOS COMUNICACOES, S.A.",False,2026-07-31
+159.223.31.72,Germany,100,"DDoS Attack, FTP Brute-Force, Phishing, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",206,"DigitalOcean, LLC",False,2026-07-31
+85.217.140.36,France,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",14019,NL MODAT,False,2026-07-31
+89.167.55.255,Germany,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",95,Hetzner Online GmbH,False,2026-07-31
+45.142.193.161,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",22331,Limited Network LTD,False,2026-07-31
+92.205.177.212,France,100,"DDoS Attack, Hacking, Brute-Force, Web App Attack, SSH Abuse",832,Host Europe GmbH,False,2026-07-31
+64.89.163.251,Germany,100,"Brute-Force, Web App Attack, SSH Abuse",456,Meowcore Softworks LLC,False,2026-07-31
+151.243.11.235,Germany,100,"DNS Compromise, DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1754,LLC VASH KREDIT BANK,False,2026-07-31
+91.92.40.14,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse, IoT Targeted",2990,TechTies Inc.,False,2026-07-31
+179.43.167.2,Switzerland,100,"FTP Brute-Force, Fraud VoIP, Port Scan, Hacking, Brute-Force, Web App Attack",166,PRIVATE LAYER INC,False,2026-07-31
+45.153.34.165,Netherlands,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",3929,TechTies Inc.,False,2026-07-31
+77.83.39.45,Netherlands,100,"FTP Brute-Force, Open Proxy, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",176,Pitline Ltd,False,2026-07-31
+193.32.162.84,Netherlands,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",20367,UNMANAGED LTD,False,2026-07-31
+62.171.169.75,France,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",873,Contabo GmbH,False,2026-07-31
+85.217.140.5,France,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",15176,NL MODAT,False,2026-07-31
+79.139.59.21,Hungary,100,Port Scan,684,RackForest,False,2026-07-31
+94.154.43.186,Netherlands,100,"DDoS Attack, Phishing, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1644,Storm Industries LLC,False,2026-07-31
+158.173.21.164,Netherlands,100,"DDoS Attack, Ping of Death, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",81,"VPN Consumer Amsterdam, The Netherlands",False,2026-07-31
+178.185.136.57,Russia,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",26299,PJSC Rostelecom,False,2026-07-31
+193.163.125.244,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",10377,Driftnet Ltd,False,2026-07-31
+213.209.159.228,Germany,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",26929,Feo Prest SRL,False,2026-07-31
+165.154.174.108,United Kingdom,100,"Phishing, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",3626,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,False,2026-07-31
+195.178.191.5,Sweden,100,"Hacking, Brute-Force, Web App Attack, SSH Abuse",34984,Bahnhof AB,False,2026-07-31
+194.88.98.102,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",3246,Infrawatch Limited,False,2026-07-31
+64.225.74.178,Netherlands,100,"FTP Brute-Force, Fraud VoIP, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",10920,"DigitalOcean, LLC",False,2026-07-31
+185.94.111.1,Russia,100,"DNS Poisoning, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",26499,HLL LLC,False,2026-07-31
+95.165.27.83,Russia,100,"Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2757,Moscow Local Telephone Network (OAO MGTS),False,2026-07-31
+159.223.217.240,Netherlands,100,"FTP Brute-Force, Fraud VoIP, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1242,"DigitalOcean, LLC",False,2026-07-31
+4.185.41.66,Germany,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Phishing, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1475,Microsoft Corporation,False,2026-07-31
+45.153.34.15,Netherlands,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",3269,TechTies Inc.,False,2026-07-31
+193.176.29.28,United Kingdom,100,"Phishing, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2931,Infrawatch Limited,False,2026-07-31
+94.154.43.229,Netherlands,100,"Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",1600,Storm Industries LLC,False,2026-07-31
+141.76.94.41,Germany,100,"DDoS Attack, Phishing, Web Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",258,Internet measurement research conducted by the Chair of Distributed,False,2026-07-31
+83.216.123.140,Sweden,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",87,Sandviken Energi AB,False,2026-07-31
+188.32.104.175,Russia,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3575,PJSC Rostelecom,False,2026-07-31
+85.204.70.116,France,100,"Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1894,Hydra Communications Ltd,False,2026-07-31
+172.94.9.74,United Kingdom,100,"DDoS Attack, Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",743,Secure Internet LLC (UK),False,2026-07-31
+194.88.98.112,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",3612,Infrawatch Limited,False,2026-07-31
+185.223.235.46,Netherlands,100,"Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack",2062,Infrawatch Limited,False,2026-07-31
+69.5.169.112,Germany,100,"Phishing, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3467,Infrawatch Limited,False,2026-07-31
+193.176.31.197,Netherlands,100,"DNS Compromise, FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",2661,Infrawatch Limited,False,2026-07-31
+45.135.193.193,Germany,100,"DDoS Attack, Open Proxy, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",7574,Pfcloud UG,False,2026-07-31
+2.57.17.151,United Kingdom,100,"Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",577,Internet Utilities Europe and Asia Limited,False,2026-07-31
+188.20.244.19,Austria,100,"Port Scan, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",801,A1 Telekom Austria AG - Business Customer,False,2026-07-31
+81.19.216.77,Netherlands,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2288,Infrawatch Limited,False,2026-07-31
+185.223.235.40,Netherlands,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Web App Attack, SSH Abuse, IoT Targeted",2093,Infrawatch Limited,False,2026-07-31
+45.148.10.67,Netherlands,100,"DDoS Attack, Web Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",12490,TECHOFF SRV LIMITED,False,2026-07-31
+81.19.216.121,Netherlands,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2152,Infrawatch Limited,False,2026-07-31
+141.11.187.248,Netherlands,100,"Brute-Force, SSH Abuse",1527,Internet Utilities Europe and Asia Limited,False,2026-07-31
+195.25.75.65,France,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, SSH Abuse",1597,Orange Business Services,False,2026-07-31
+45.92.1.30,Netherlands,100,"Open Proxy, VPN IP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, SSH Abuse, IoT Targeted",823,1337 Services GmbH,False,2026-07-31
+74.248.24.145,Poland,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",534,Microsoft Corporation,False,2026-07-31
+209.99.190.89,Switzerland,100,"DDoS Attack, Open Proxy, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",77,SKN Subnet & Telecom Ltd,False,2026-07-31
+185.216.145.186,United Kingdom,100,"Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",2874,Infrawatch Limited,False,2026-07-31
+159.65.49.75,United Kingdom,100,"DDoS Attack, Fraud VoIP, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",97,"DigitalOcean, LLC",False,2026-07-31
+69.5.169.10,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",3403,Infrawatch Limited,False,2026-07-31
+78.134.49.171,Italy,100,"FTP Brute-Force, Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, SSH Abuse, IoT Targeted",12567,NGI Spa,False,2026-07-31
+91.92.42.19,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",3140,TechTies Inc.,False,2026-07-31
+151.243.11.236,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack",2458,LLC VASH KREDIT BANK,False,2026-07-31
+89.248.172.12,Netherlands,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack",475,FiberXpress BV,False,2026-07-31
+192.42.116.17,Netherlands,100,"FTP Brute-Force, Phishing, Open Proxy, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",999,TOR EXIT AND MORE,True,2026-07-31
+193.163.125.135,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse, IoT Targeted",11936,Driftnet Ltd,False,2026-07-31
+64.89.163.133,Germany,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2487,Meowcore Softworks LLC,False,2026-07-31
+91.92.40.23,Netherlands,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3947,TechTies Inc.,False,2026-07-31
+92.118.39.203,Netherlands,100,"Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack",6395,DMZHOST,False,2026-07-31
+135.125.235.107,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse, IoT Targeted",1225,OVH GmbH,False,2026-07-31
+194.88.98.119,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3598,Infrawatch Limited,False,2026-07-31
+185.247.137.85,United Kingdom,100,"DDoS Attack, Phishing, Email Spam, VPN IP, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1311,Driftnet Ltd,False,2026-07-31
+91.92.40.46,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",4429,TechTies Inc.,False,2026-07-31
+80.13.153.140,France,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",12333,Orange S.A.,False,2026-07-31
+37.10.113.218,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",6056,Infrawatch Limited,False,2026-07-31
+69.5.169.224,Germany,100,"DDoS Attack, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3674,Infrawatch Limited,False,2026-07-31
+92.118.39.202,Netherlands,100,"Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack",6870,DMZHOST,False,2026-07-31
+178.178.222.57,Russia,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",2943,PJSC MegaFon,False,2026-07-31
+194.165.16.167,Lithuania,100,"DDoS Attack, FTP Brute-Force, Web Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",11120,Flyservers S.A.,False,2026-07-31
+45.195.221.26,Russia,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",15360,UCLOUD INFORMATION TECHNOLOGY HK LIMITED,False,2026-07-31
+209.99.190.113,Switzerland,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",6677,SKN Subnet & Telecom Ltd,False,2026-07-31
+69.5.169.97,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3666,Infrawatch Limited,False,2026-07-31
+69.5.169.68,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3856,Infrawatch Limited,False,2026-07-31
+141.98.83.48,United Kingdom,100,"DNS Compromise, DNS Poisoning, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",13984,Flyservers S.A.,False,2026-07-31
+193.32.209.251,United Kingdom,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2753,Infrawatch Limited,False,2026-07-31
+94.154.43.56,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",6778,Storm Industries LLC,False,2026-07-31
+109.241.134.137,Poland,100,"DDoS Attack, Phishing, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",187,VECTRA S.A.,False,2026-07-31
+31.220.3.165,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack, IoT Targeted",2891,KODDOS,False,2026-07-31
+68.183.5.181,Netherlands,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",32,"DigitalOcean, LLC",False,2026-07-31
+193.163.125.99,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",11832,Driftnet Ltd,False,2026-07-31
+193.176.29.23,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",2724,Infrawatch Limited,False,2026-07-31
+193.163.125.50,United Kingdom,100,"DNS Compromise, DNS Poisoning, FTP Brute-Force, Fraud VoIP, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",11376,Driftnet Ltd,False,2026-07-31
+69.5.169.28,Germany,100,"DDoS Attack, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host",3784,Infrawatch Limited,False,2026-07-31
+193.163.125.195,United Kingdom,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",10585,Driftnet Ltd,False,2026-07-31
+94.154.43.177,Netherlands,100,"DDoS Attack, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1616,Storm Industries LLC,False,2026-07-31
+165.227.172.206,Germany,100,"FTP Brute-Force, Fraud VoIP, Open Proxy, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",5213,"DigitalOcean, LLC",False,2026-07-31
+213.166.84.48,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack",2871,Infrawatch Limited,False,2026-07-31
+94.154.43.96,Netherlands,100,"Port Scan, Hacking, Brute-Force",1506,Storm Industries LLC,False,2026-07-31
+45.133.173.180,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",960,Internet Utilities Europe and Asia Limited,False,2026-07-31
+91.92.47.6,Netherlands,100,"FTP Brute-Force, Port Scan, Brute-Force, SSH Abuse",2904,TechTies Inc.,False,2026-07-31
+194.187.176.247,Germany,100,"DDoS Attack, FTP Brute-Force, Ping of Death, Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, IoT Targeted",625,Alpha Strike Labs GmbH,False,2026-07-31
+37.10.113.215,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",6025,Infrawatch Limited,False,2026-07-31
+89.21.67.178,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",2875,Infrawatch Limited,False,2026-07-31
+20.203.221.142,Switzerland,100,"DDoS Attack, Web Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",596,Microsoft Corporation,False,2026-07-31
+193.163.125.182,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack",10670,Driftnet Ltd,False,2026-07-31
+195.178.110.101,Andorra,100,"DDoS Attack, Web Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2752,TECHOFF SRV LIMITED,False,2026-07-31
+69.5.169.60,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3493,Infrawatch Limited,False,2026-07-31
+69.5.169.95,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3459,Infrawatch Limited,False,2026-07-31
+95.255.158.96,Italy,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse, IoT Targeted",1791,Telecom Italia S.p.A.,False,2026-07-31
+45.84.107.198,Sweden,100,"DDoS Attack, Phishing, Open Proxy, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",2183,QuxLabs AB,True,2026-07-31
+46.6.127.33,Spain,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",1138,Xfera Moviles SA / Yoigo,False,2026-07-31
+185.223.235.9,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3180,Infrawatch Limited,False,2026-07-31
+217.182.253.249,France,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse, IoT Targeted",1031,OVH SAS,False,2026-07-31
+193.176.31.154,Netherlands,100,"DDoS Attack, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",4475,Infrawatch Limited,False,2026-07-31
+193.163.125.98,United Kingdom,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",11639,Driftnet Ltd,False,2026-07-31
+94.154.43.66,Netherlands,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3880,Storm Industries LLC,False,2026-07-31
+91.92.42.34,Netherlands,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",3722,TechTies Inc.,False,2026-07-31
+78.128.114.166,Bulgaria,100,"Port Scan, Hacking, Brute-Force, Web App Attack",4275,Tamatiya EOOD,False,2026-07-31
+207.180.215.239,France,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",126,Contabo GmbH,False,2026-07-31
+192.253.248.215,United Kingdom,100,"Port Scan, Brute-Force, Web App Attack, SSH Abuse",1150,Secure Internet LLC (UK),False,2026-07-31
+54.38.241.200,France,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse, IoT Targeted",4673,OVH SAS,False,2026-07-31
+5.226.140.85,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",1047,Infrawatch Limited,False,2026-07-31
+193.124.20.232,Germany,100,"DNS Poisoning, DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3595,Infrawatch Limited,False,2026-07-31
+213.209.159.108,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",18687,Feo Prest SRL,False,2026-07-31
+45.133.173.131,United Kingdom,100,"DDoS Attack, Ping of Death, Fraud VoIP, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",111,Internet Utilities Europe and Asia Limited,False,2026-07-31
+20.215.191.139,Poland,100,"DDoS Attack, Phishing, Web Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",263,Microsoft Corporation,False,2026-07-31
+187.33.159.66,Spain,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",296,CLOUDI NEXTGEN SL,False,2026-07-31
+5.252.83.85,United Kingdom,100,"DDoS Attack, Ping of Death, Phishing, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",631,Internet Utilities Europe and Asia Limited,False,2026-07-31
+51.158.205.203,Netherlands,100,"DNS Compromise, DNS Poisoning, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",35812,"Scaleway - Amsterdam, Netherlands",False,2026-07-31
+172.213.232.128,Italy,100,"DDoS Attack, Web Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",236,Microsoft Limited,False,2026-07-31
+85.217.140.38,France,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",12646,NL MODAT,False,2026-07-31
+194.165.16.165,Lithuania,100,"DDoS Attack, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",11622,Flyservers S.A.,False,2026-07-31
+91.92.40.66,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force",2588,TechTies Inc.,False,2026-07-31
+178.185.223.124,Russia,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, IoT Targeted",645,OJSC Sibirtelecom,False,2026-07-31
+91.92.47.117,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",2878,TechTies Inc.,False,2026-07-31
+172.94.9.231,United Kingdom,100,"Phishing, Fraud VoIP, Open Proxy, Web Spam, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",260,Secure Internet LLC (UK),False,2026-07-31
+64.89.163.146,Germany,100,"DDoS Attack, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host",1996,Meowcore Softworks LLC,False,2026-07-31
+171.25.158.68,Sweden,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",15060,Vaxjo NET C2IP,False,2026-07-31
+8.208.44.152,United Kingdom,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse, IoT Targeted",1382,Aliyun Computing Co.LTD,False,2026-07-31
+81.19.216.122,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack",2698,Infrawatch Limited,False,2026-07-31
+157.173.104.13,France,100,"Phishing, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",707,Contabo GmbH,False,2026-07-31
+155.4.245.222,Sweden,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",20392,"Bahnhof AB, Sweden",False,2026-07-31
+45.156.87.253,Netherlands,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",10914,TechTies Inc.,False,2026-07-31
+195.3.220.12,Poland,100,"Fraud VoIP, Email Spam, Port Scan, Hacking, Brute-Force, SSH Abuse",33,MEVSPACE sp. z o.o.,False,2026-07-31
+193.176.31.245,Netherlands,100,"DNS Compromise, DNS Poisoning, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, SSH Abuse",3024,Infrawatch Limited,False,2026-07-31
+8.209.80.8,Germany,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",953,Alibaba Cloud (Singapore) Private Limited,False,2026-07-31
+94.228.192.82,Russia,100,"Port Scan, Brute-Force, SSH Abuse",45,Uniontel infrastructure net,False,2026-07-31
+194.88.98.123,Germany,100,"DDoS Attack, Fraud VoIP, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, IoT Targeted",3493,Infrawatch Limited,False,2026-07-31
+188.240.59.20,United Kingdom,100,"DDoS Attack, Ping of Death, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1749,Infrawatch Limited,False,2026-07-31
+193.32.209.235,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",2885,Infrawatch Limited,False,2026-07-31
+195.161.41.69,Russia,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",708,Avguro Technologies Ltd. Hosting service provider,False,2026-07-31
+152.53.148.66,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3680,Anexia Holding GmbH,False,2026-07-31
+88.205.172.170,Russia,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",11384,Dynamic distribution IP's for broadband services,False,2026-07-31
+213.209.159.225,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",25717,Feo Prest SRL,False,2026-07-31
+158.255.74.102,Germany,100,"FTP Brute-Force, Port Scan, Brute-Force, Web App Attack, SSH Abuse",167,Vandad Vira Hooman LLC,False,2026-07-31
+104.28.211.188,France,100,"Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1013,"Cloudflare, Inc.",False,2026-07-31
+91.92.42.52,Netherlands,100,"Port Scan, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2675,TechTies Inc.,False,2026-07-31
+85.204.70.106,France,100,"Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1994,Hydra Communications Ltd,False,2026-07-31
+85.217.140.24,France,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",12095,NL MODAT,False,2026-07-31
+89.21.67.177,Netherlands,100,"DDoS Attack, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2620,Infrawatch Limited,False,2026-07-31
+77.165.10.228,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",174,KPN B.V.,False,2026-07-31
+45.153.34.41,Netherlands,100,"FTP Brute-Force, VPN IP, Port Scan, Hacking, Brute-Force, SSH Abuse",1947,TechTies Inc.,False,2026-07-31
+69.5.169.14,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3626,Infrawatch Limited,False,2026-07-31
+79.72.57.232,Spain,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse, IoT Targeted",2023,Oracle Svenska AB,False,2026-07-31
+4.211.84.189,France,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",28509,Microsoft Corporation,False,2026-07-31
+51.120.79.193,Norway,100,"DDoS Attack, Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1062,Microsoft Limited,False,2026-07-31
+151.243.11.232,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack",2302,LLC VASH KREDIT BANK,False,2026-07-31
+94.154.43.184,Netherlands,100,"DDoS Attack, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1557,Storm Industries LLC,False,2026-07-31
+69.5.169.51,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",3820,Infrawatch Limited,False,2026-07-31
+81.19.216.71,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2018,Infrawatch Limited,False,2026-07-31
+87.117.32.22,Russia,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",4337,OJSC Rostelecom Macroregional Branch South,False,2026-07-31
+2.57.17.141,United Kingdom,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack",551,Internet Utilities Europe and Asia Limited,False,2026-07-31
+152.53.181.248,Germany,100,"Port Scan, Brute-Force, SSH Abuse",50,netcup GmbH,False,2026-07-31
+151.0.154.194,Italy,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",1095,Fastweb SpA,False,2026-07-31
+81.19.216.101,Netherlands,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2252,Infrawatch Limited,False,2026-07-31
+94.154.43.188,Netherlands,100,"Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1611,Storm Industries LLC,False,2026-07-31
+195.178.110.135,Andorra,100,"DDoS Attack, Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2285,TECHOFF SRV LIMITED,False,2026-07-31
+188.240.59.13,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",2034,Infrawatch Limited,False,2026-07-31
+188.240.59.15,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2901,Infrawatch Limited,False,2026-07-31
+167.172.189.210,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",23,"DigitalOcean, LLC",False,2026-07-31
+193.176.31.208,Netherlands,100,"DDoS Attack, Ping of Death, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2169,Infrawatch Limited,False,2026-07-31
+212.3.155.8,Russia,100,"Port Scan, Brute-Force, SSH Abuse",2548,"OJSC Rostelecom, Smolensk branch",False,2026-07-31
+171.25.158.50,Sweden,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",843,Vaxjo NET C2IP,True,2026-07-31
+185.223.235.54,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",2813,Infrawatch Limited,False,2026-07-31
+89.32.41.178,Romania,100,"DDoS Attack, Phishing, Fraud VoIP, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",76,S.C. HOSTMAZE INC SRL-D,False,2026-07-31
+2.57.17.4,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",374,Internet Utilities Europe and Asia Limited,False,2026-07-31
+37.10.113.211,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host",5797,Infrawatch Limited,False,2026-07-31
+178.104.212.18,Germany,100,"Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",506,Hetzner Online GmbH,False,2026-07-31
+178.209.97.14,Russia,100,"Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",1702,OOO WestCall Ltd.,False,2026-07-31
+134.122.93.100,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",5706,"DigitalOcean, LLC",False,2026-07-31
+45.82.76.110,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",6083,Detai Prosperous Technologies Limited,False,2026-07-31
+194.187.176.90,Germany,100,"DDoS Attack, Ping of Death, Fraud VoIP, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",610,Alpha Strike Labs GmbH,False,2026-07-31
+195.230.103.250,Germany,100,"Fraud VoIP, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3780,about-asi.recordedfuture.com,False,2026-07-31
+89.21.67.170,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2737,Infrawatch Limited,False,2026-07-31
+89.37.172.152,United Kingdom,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2557,Infrawatch Limited,False,2026-07-31
+185.223.235.61,Netherlands,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",2704,Infrawatch Limited,False,2026-07-31
+31.76.28.231,Germany,100,"DDoS Attack, Ping of Death, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse, IoT Targeted",150,play2go.cloud - Cheap and reliable hosting,False,2026-07-31
+89.37.172.154,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2702,Infrawatch Limited,False,2026-07-31
+5.226.140.55,United Kingdom,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1210,Infrawatch Limited,False,2026-07-31
+178.140.129.139,Russia,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",345,PJSC Rostelecom,False,2026-07-31
+194.50.235.133,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",3239,Infrawatch Limited,False,2026-07-31
+194.50.235.142,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",3627,Infrawatch Limited,False,2026-07-31
+93.152.221.125,Germany,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",176,TechTies Inc.,False,2026-07-31
+31.14.254.4,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",1868,Infrawatch Limited,False,2026-07-31
+172.213.208.20,Italy,100,"DDoS Attack, Web Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",949,Microsoft Limited,False,2026-07-31
+158.158.32.229,Spain,100,"DNS Compromise, DDoS Attack, Web Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",908,Microsoft Singapore Pte. Ltd.,False,2026-07-31
+151.243.150.23,Germany,100,"DDoS Attack, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",1799,DEDIK SERVICES LIMITED,False,2026-07-31
+45.153.34.161,Netherlands,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",3932,TechTies Inc.,False,2026-07-31
+158.158.105.63,Spain,100,"DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",474,Microsoft Singapore Pte. Ltd.,False,2026-07-31
+20.251.58.190,Norway,100,"DNS Compromise, DNS Poisoning, DDoS Attack, FTP Brute-Force, Ping of Death, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",674,Microsoft Corporation,False,2026-07-31
+151.243.150.222,Germany,100,"DDoS Attack, Phishing, Web Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1277,DEDIK SERVICES LIMITED,False,2026-07-31
+193.32.209.252,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",3349,Infrawatch Limited,False,2026-07-31
+2.57.17.209,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",191,Internet Utilities Europe and Asia Limited,False,2026-07-31
+160.119.76.64,Netherlands,100,"Phishing, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2785,HostUS Solutions LLC,False,2026-07-31
+176.65.148.216,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host",5818,Pfcloud UG,False,2026-07-31
+161.35.198.220,Germany,100,"DDoS Attack, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",176,"DigitalOcean, LLC",False,2026-07-31
+109.194.108.203,Russia,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse, IoT Targeted",3879,JSC ER-Telecom Holding Yoshkar-Ola branch,False,2026-07-31
+45.133.173.64,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",521,Internet Utilities Europe and Asia Limited,False,2026-07-31
+164.90.214.253,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",30,"DigitalOcean, LLC",False,2026-07-31
+176.65.148.242,Netherlands,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",8495,Pfcloud UG,False,2026-07-31
+5.182.83.231,Spain,100,"DDoS Attack, Ping of Death, Web Spam, Email Spam, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",48041,"AVATEL TELECOM, SA",False,2026-07-31
+94.154.43.185,Netherlands,100,"Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1588,Storm Industries LLC,False,2026-07-31
+94.244.77.5,Lithuania,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",1397,UAB Kauno interneto sistemos,False,2026-07-31
+87.106.47.28,France,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",3077,IONOS SE,False,2026-07-31
+45.156.87.254,Netherlands,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",11520,TechTies Inc.,False,2026-07-31
+64.89.163.79,Germany,100,"Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",1659,Meowcore Softworks LLC,False,2026-07-31
+69.5.169.231,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",4006,Infrawatch Limited,False,2026-07-31
+185.220.101.34,Germany,100,"Fraud Orders, DDoS Attack, Phishing, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",657,Network for Tor-Exit traffic.,True,2026-07-31
+213.209.159.241,Germany,100,"DDoS Attack, FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",19783,Feo Prest SRL,False,2026-07-31
+51.195.149.120,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",4648,OVH Ltd,False,2026-07-31
+82.102.18.188,France,100,"Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1808,M247 LTD Paris Infrastructure,False,2026-07-31
+209.99.184.143,Switzerland,100,"Brute-Force, Web App Attack, SSH Abuse",7790,SKN Subnet & Telecom Ltd,False,2026-07-31
+85.217.140.54,France,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",4807,NL MODAT,False,2026-07-31
+46.232.235.4,Germany,100,"DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",49,NextServ LLC,False,2026-07-31
+2.57.17.104,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",306,Internet Utilities Europe and Asia Limited,False,2026-07-31
+83.147.29.150,United Kingdom,100,"DDoS Attack, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",88,Internet Utilities Europe and Asia Limited,False,2026-07-31
+64.89.161.82,Luxembourg,100,"Web Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",737,Ghosty Networks LLC,False,2026-07-31
+45.133.173.65,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",542,Internet Utilities Europe and Asia Limited,False,2026-07-31
+193.124.20.243,Germany,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",6450,Infrawatch Limited,False,2026-07-31
+93.96.188.226,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse, IoT Targeted",106,Sky UK Limited,False,2026-07-31
+5.181.85.100,Ukraine,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Bad Web Bot, Web App Attack, SSH Abuse",917,Pitline Ltd,False,2026-07-31
+35.246.80.146,United Kingdom,100,"Port Scan, Hacking, Brute-Force, SSH Abuse",2750,Google LLC,False,2026-07-31
+45.156.87.127,Netherlands,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",20021,TechTies Inc.,False,2026-07-31
+213.166.84.44,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3472,Infrawatch Limited,False,2026-07-31
+193.124.20.248,Germany,100,"DDoS Attack, Phishing, Web Spam, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",6660,Infrawatch Limited,False,2026-07-31
+89.37.172.140,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3502,Infrawatch Limited,False,2026-07-31
+51.68.111.204,France,100,"DDoS Attack, Open Proxy, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1831,OVH SAS,False,2026-07-31
+185.242.226.63,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1552,HostUS Solutions LLC,False,2026-07-31
+109.91.4.177,Germany,100,"Hacking, Brute-Force, Web App Attack, SSH Abuse, IoT Targeted",17056,Vodafone West GmbH,False,2026-07-31
+69.5.169.36,Germany,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, IoT Targeted",3162,Infrawatch Limited,False,2026-07-31
+80.94.92.156,Netherlands,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",5569,TECHOFF SRV LIMITED,False,2026-07-31
+139.59.208.225,Germany,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",3384,"DigitalOcean, LLC",False,2026-07-31
+185.246.188.73,Netherlands,100,"DDoS Attack, Phishing, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",908,FlokiNET ehf,True,2026-07-31
+176.65.148.136,Netherlands,100,Port Scan,11458,Pfcloud UG,False,2026-07-31
+83.239.84.130,Russia,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",5551,OJSC Rostelecom Macroregional Branch South,False,2026-07-31
+193.124.20.246,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",6456,Infrawatch Limited,False,2026-07-31
+4.231.96.134,Netherlands,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, SSH Abuse, IoT Targeted",677,Microsoft Corporation,False,2026-07-31
+45.82.76.121,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",6104,Detai Prosperous Technologies Limited,False,2026-07-31
+185.177.72.70,France,100,"DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3296,FBW NETWORKS SAS,False,2026-07-31
+109.122.195.150,Finland,100,"Port Scan, Brute-Force, Web App Attack, SSH Abuse",1025,Baykov Ilya Sergeevich,False,2026-07-31
+193.176.31.238,Netherlands,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2388,Infrawatch Limited,False,2026-07-31
+165.154.138.151,Germany,100,"DDoS Attack, Fraud VoIP, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3743,UCLOUD INFORMATION TECHNOLOGY (HK) LIMITED,False,2026-07-31
+43.157.53.115,Germany,100,"DDoS Attack, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",2901,"Asia Pacific Network Information Center, Pty. Ltd.",False,2026-07-31
+5.252.83.219,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",184,Internet Utilities Europe and Asia Limited,False,2026-07-31
+146.70.194.244,France,100,"DDoS Attack, Web Spam, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1654,M247 LTD Paris Infrastructure,False,2026-07-31
+195.250.169.2,Estonia,100,"Hacking, Brute-Force, Web App Attack, SSH Abuse",311,Telia Eesti AS,False,2026-07-31
+64.89.163.83,Germany,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",2271,Meowcore Softworks LLC,False,2026-07-31
+2.27.42.28,Finland,100,"Brute-Force, SSH Abuse",1095,play2go.cloud - Cheap and reliable hosting,False,2026-07-31
+85.217.140.52,France,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",13532,NL MODAT,False,2026-07-31
+89.160.102.155,Sweden,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",356,Bredband2 AB,False,2026-07-31
+130.12.180.52,Netherlands,100,"DDoS Attack, Open Proxy, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",16651,Virtualine Technologies,False,2026-07-31
+88.97.105.197,United Kingdom,100,"DDoS Attack, Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",126,Zen Internet Ltd,False,2026-07-31
+5.226.140.6,United Kingdom,100,"DDoS Attack, Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1446,Infrawatch Limited,False,2026-07-31
+85.217.140.51,France,100,"Port Scan, Hacking, Brute-Force, Web App Attack",13728,NL MODAT,False,2026-07-31
+154.16.44.14,United Kingdom,100,"FTP Brute-Force, Email Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, SSH Abuse, IoT Targeted",110,Digital Energy Technologies Limited,False,2026-07-31
+51.68.111.214,France,100,"DDoS Attack, Open Proxy, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1309,OVH SAS,False,2026-07-31
+31.173.12.27,Russia,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",2145,PJSC MegaFon,False,2026-07-31
+91.134.138.62,France,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",1627,OVH SAS,False,2026-07-31
+5.255.123.162,Netherlands,100,"DDoS Attack, Phishing, Web Spam, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",192,The Infrastructure Group B.V.,False,2026-07-31
+93.91.6.75,Russia,100,"Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Web App Attack, SSH Abuse",344,OOO Suntel,False,2026-07-31
+81.237.155.113,Sweden,100,"DDoS Attack, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1614,Telia Network Services,False,2026-07-31
+43.157.20.63,Germany,100,"DDoS Attack, Web Spam, Email Spam, VPN IP, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2194,"Asia Pacific Network Information Center, Pty. Ltd.",False,2026-07-31
+77.51.231.68,Russia,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",387,PJSC Rostelecom,False,2026-07-31
+91.92.42.168,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, SSH Abuse",2439,TechTies Inc.,False,2026-07-31
+91.92.42.80,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",1660,TechTies Inc.,False,2026-07-31
+176.65.149.220,Netherlands,100,"Port Scan, Brute-Force, SSH Abuse",15680,Pfcloud UG,False,2026-07-31
+213.166.84.52,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",3488,Infrawatch Limited,False,2026-07-31
+81.19.219.218,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1821,Infrawatch Limited,False,2026-07-31
+188.168.86.6,Russia,100,"DDoS Attack, Phishing, Web Spam, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3811,TTK-Chita/BRAS in Chita,False,2026-07-31
+20.215.216.94,Poland,100,"DNS Compromise, DNS Poisoning, DDoS Attack, Ping of Death, Phishing, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",1273,Microsoft Corporation,False,2026-07-31
+69.5.169.38,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",3978,Infrawatch Limited,False,2026-07-31
+47.91.65.106,Germany,100,"Fraud VoIP, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",944,Alibaba Cloud - DE,False,2026-07-31
+45.14.134.197,Netherlands,100,"Hacking, Brute-Force, SSH Abuse",2699,WorldStream B.V.,False,2026-07-31
+185.177.72.23,France,100,"DDoS Attack, Web Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",9070,FBW NETWORKS SAS,False,2026-07-31
+45.133.173.205,United Kingdom,100,"DDoS Attack, Ping of Death, Phishing, Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",707,Internet Utilities Europe and Asia Limited,False,2026-07-31
+154.16.44.144,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",140,Digital Energy Technologies Limited,False,2026-07-31
+5.252.83.150,United Kingdom,100,"Phishing, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",110,Internet Utilities Europe and Asia Limited,False,2026-07-31
+92.62.233.214,Czech Republic,100,"DDoS Attack, Ping of Death, Web Spam, Email Spam, Port Scan, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3840,Starnet s.r.o.,False,2026-07-31
+69.5.169.2,Germany,100,"DNS Poisoning, DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",3566,Infrawatch Limited,False,2026-07-31
+185.208.207.227,France,100,"Port Scan, Hacking, Brute-Force, Web App Attack",3865,Contabo GmbH,False,2026-07-31
+94.154.43.31,Netherlands,100,"DNS Compromise, DNS Poisoning, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",2413,Storm Industries LLC,False,2026-07-31
+45.156.128.173,Netherlands,100,"DDoS Attack, Phishing, Web Spam, Email Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",2632,INAP-AMS-1,False,2026-07-31
+146.103.122.193,Netherlands,100,"DNS Compromise, DDoS Attack, Phishing, Web Spam, Blog Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",116,"Amsterdam, Netherlands",False,2026-07-31
+154.16.44.75,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",211,Digital Energy Technologies Limited,False,2026-07-31
+85.30.248.213,Russia,100,"Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",4515,PJSC Rostelecom,False,2026-07-31
+194.50.235.130,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",2908,Infrawatch Limited,False,2026-07-31
+91.92.42.143,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack",289,TechTies Inc.,False,2026-07-31
+80.94.95.226,Hungary,100,"Port Scan, Hacking, Brute-Force, Web App Attack",4548,UNMANAGED LTD,False,2026-07-31
+45.153.34.71,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",9090,TechTies Inc.,False,2026-07-31
+193.163.125.56,United Kingdom,100,"Phishing, Fraud VoIP, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",11552,Driftnet Ltd,False,2026-07-31
+94.154.43.175,Netherlands,100,"Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",74,Storm Industries LLC,False,2026-07-31
+193.163.125.235,United Kingdom,100,"Fraud VoIP, Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host",10479,Driftnet Ltd,False,2026-07-31
+193.163.125.245,United Kingdom,100,"Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",10369,Driftnet Ltd,False,2026-07-31
+185.177.72.10,France,100,"DDoS Attack, Web Spam, Port Scan, Hacking, SQL Injection, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",4876,FBW NETWORKS SAS,False,2026-07-31
+46.151.182.191,United Kingdom,100,"Port Scan, Hacking, SQL Injection, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",1943,Ghosty Networks LLC,False,2026-07-31
+69.5.169.222,Germany,100,"DDoS Attack, Phishing, Email Spam, Port Scan, Hacking, SQL Injection, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",4082,Infrawatch Limited,False,2026-07-31
+77.239.124.240,Netherlands,100,"Port Scan, Hacking, Brute-Force, Exploited Host, SSH Abuse",1179,RocketCloud,False,2026-07-31
+89.21.67.157,Netherlands,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack",3085,Infrawatch Limited,False,2026-07-31
+87.236.176.216,United Kingdom,100,"DNS Poisoning, DDoS Attack, Email Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",1441,Driftnet Ltd,False,2026-07-31
+57.129.81.225,Germany,100,"DDoS Attack, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",684,OVH GmbH,False,2026-07-31
+93.152.221.64,Germany,100,"DDoS Attack, Web Spam, Blog Spam, Port Scan, Hacking, Brute-Force, Bad Web Bot, Exploited Host, Web App Attack, SSH Abuse",56,TechTies Inc.,False,2026-07-31
+8.211.30.254,Germany,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Exploited Host, Web App Attack, SSH Abuse",934,Alibaba Cloud (Singapore) Private Limited,False,2026-07-31
+45.133.173.166,United Kingdom,100,"Email Spam, Port Scan, Hacking, Brute-Force, Exploited Host",218,Internet Utilities Europe and Asia Limited,False,2026-07-31
+178.178.222.55,Russia,100,"Email Spam, Port Scan, Hacking, Spoofing, Brute-Force, Exploited Host, Web App Attack, SSH Abuse, IoT Targeted",4379,PJSC MegaFon,False,2026-07-31
+91.92.40.45,Netherlands,100,"FTP Brute-Force, Port Scan, Hacking, Brute-Force, Web App Attack, SSH Abuse",4259,TechTies Inc.,False,2026-07-31

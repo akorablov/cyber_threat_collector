@@ -13,8 +13,7 @@
     abuseipdb_europe.csv  (appends on each run, deduplicates automatically)
 
   Columns:
-    ip_address, country_name, abuse_score, attack_categories,
-    total_reports, isp, is_tor, last_reported_at
+    ip_address, country_name, abuse_score, attack_categories, total_reports, isp, is_tor, last_reported_at
 
   Requirements:
     pip install requests pandas tqdm
@@ -44,7 +43,7 @@ from tqdm import tqdm
 
 
 # ─────────────────────────────────────────────────────────────
-#  CONFIG - paste your API key here
+#  CONFIG, paste your API key here
 # ─────────────────────────────────────────────────────────────
 ABUSEIPDB_API_KEY = os.environ.get("ABUSEIPDB_API_KEY", "PASTE_YOUR_API_KEY_HERE")
 
@@ -89,7 +88,7 @@ ATTACK_CATEGORIES = {
 
 
 # ═════════════════════════════════════════════════════════════
-#  STAGE 0 - Validate & Check Quota
+#  STAGE 0. Validate & Check Quota
 # ═════════════════════════════════════════════════════════════
 
 def check_quota(api_key):
@@ -142,7 +141,7 @@ def check_quota(api_key):
 
 
 # ═════════════════════════════════════════════════════════════
-#  STAGE 1 - Download AbuseIPDB Blacklist
+#  STAGE 1. Download AbuseIPDB Blacklist
 # ═════════════════════════════════════════════════════════════
 
 def download_blacklist(api_key):
@@ -173,7 +172,7 @@ def download_blacklist(api_key):
 
 
 # ═════════════════════════════════════════════════════════════
-#  STAGE 2 - Geolocate All IPs via ip-api.com (free, no key)
+#  STAGE 2. Geolocate All IPs via ip-api.com (free, no key)
 # ═════════════════════════════════════════════════════════════
 
 def geolocate_and_filter(blacklist, max_eu_checks):
@@ -235,7 +234,7 @@ def geolocate_and_filter(blacklist, max_eu_checks):
 
 
 # ═════════════════════════════════════════════════════════════
-#  STAGE 3 - Enrich European IPs via AbuseIPDB/check
+#  STAGE 3. Enrich European IPs via AbuseIPDB/check
 # ═════════════════════════════════════════════════════════════
 
 def enrich_european_ips(european_candidates, ip_to_country, api_key, quota_remaining, max_eu_checks):
