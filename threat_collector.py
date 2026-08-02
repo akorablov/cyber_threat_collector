@@ -127,7 +127,7 @@ def check_quota(api_key):
         if quota_remaining < 10:
             print()
             print("⚠️ Not enough quota left today.")
-            print(" Come back after 1:00 AM.")
+            print(" Come back after 2:00 AM.")
             return 0, 0
 
         return quota_remaining, max_eu_checks
@@ -413,7 +413,7 @@ def save_and_summarize(european_ips):
 
     print()
     print("=" * 50)
-    print("✅ Done! Run again after 1:00 AM.")
+    print("✅ Done! Run again after 2:00 AM.")
     print("=" * 50)
 
 

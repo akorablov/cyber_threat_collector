@@ -2,7 +2,7 @@
 
 This project collects and analyses malicious IP intelligence with a focus on European networks. It pulls suspicious IP addresses from the AbuseIPDB blacklist, a community-driven database where system administrators, hosting providers, security researchers and automated honeypot systems report malicious activity observed on their infrastructure. Each report contributes to a confidence score, building a continuously updated list of IPs associated with activities such as brute-force attacks, port scanning, spam campaigns and other forms of abuse.
 
-Every day the pipeline takes a fresh snapshot of this blacklist, filters for European IP addresses, and enriches each record with additional context: ISP information, attack categories and TOR exit node status. The result is a structured, growing dataset that reflects potentially malicious activity originating from European networks at any given point in time.
+Every day the pipeline takes a fresh snapshot of this blacklist, filters for European IP addresses and enriches each record with additional context: ISP information, attack categories and TOR exit node status. The result is a structured, growing dataset that reflects potentially malicious activity originating from European networks at any given point in time.
 
 As the dataset accumulates over daily runs, it can be used to explore trends, identify which hosting providers or regions appear most frequently in abuse reports and build visualisations or analyses grounded in real-world cybersecurity data.
 
@@ -45,7 +45,7 @@ QUOTA_LIMIT     = int(test.headers.get("X-RateLimit-Limit", 1000))
 MAX_EU_CHECKS   = max(0, QUOTA_REMAINING - 3)   # safety buffer
 
 if QUOTA_REMAINING < 10:
-    print("⚠️ Not enough quota left. Come back after 1:00 AM.")
+    print("⚠️ Not enough quota left. Come back after 2:00 AM.")
 ```
 
 View my notebook with detailed steps here: [api_data_collector.ipynb](api_data_collector.ipynb)
@@ -71,7 +71,11 @@ Results are saved to abuseipdb_europe.csv. Each run appends new records to the e
 
 # Automating the script
 
-On Windows, you can automate the script using Task Scheduler by creating a task named "Threat Collector", enabling "Run whether user is logged on or not" and setting a daily trigger for around 1:05 AM. In the Actions tab, configure it to run Python (for example, C:\Python312\python.exe) with threat_collector.py as the argument and set the working directory to the folder containing the script. To ensure everything runs smoothly, define the ABUSEIPDB_API_KEY as a system-wide environment variable (via System Properties > Environment Variables).
+On Windows, you can automate the script using Task Scheduler. Create a new task, give it a name, enable 'Run whether user is logged on or not" and set a daily trigger for around 2:05 AM.
+
+In the Actions tab, configure it to run Python (if you are using a virtual environment, make sure to provide the full path to the python.exe inside that environment). Add threat_collector.py as the "argument" and set the "Start in (working directory)" to the folder where the script is located.
+
+To ensure the script runs correctly, define the ABUSEIPDB_API_KEY as a "system-wide environment variable" (via System Properties > Environment Variables).
 
 # Conclusion
 
