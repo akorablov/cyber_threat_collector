@@ -42,9 +42,8 @@ from datetime import datetime, timezone
 from tqdm import tqdm
 
 
-# ─────────────────────────────────────────────────────────────
-#  CONFIG, paste your API key here
-# ─────────────────────────────────────────────────────────────
+# CONFIG, paste your API key here
+
 ABUSEIPDB_API_KEY = os.environ.get("ABUSEIPDB_API_KEY", "PASTE_YOUR_API_KEY_HERE")
 
 DAYS_BACK      = 365   # max 365 on free tier
@@ -52,9 +51,8 @@ MIN_CONFIDENCE = 75    # minimum abuse confidence score (0-100)
 OUTPUT_FILE    = os.path.join(os.path.dirname(os.path.abspath(__file__)), "abuseipdb_europe.csv")
 
 
-# ─────────────────────────────────────────────────────────────
-#  REFERENCE DATA
-# ─────────────────────────────────────────────────────────────
+# REFERENCE DATA
+
 EUROPEAN_COUNTRIES = {
     "AL","AD","AT","BY","BE","BA","BG","HR","CY","CZ","DK","EE","FI",
     "FR","DE","GR","HU","IS","IE","IT","XK","LV","LI","LT","LU","MT",
@@ -116,13 +114,13 @@ def check_quota(api_key):
         max_eu_checks   = max(0, quota_remaining - 3)
 
         print(f"✅ Quota status:")
-        print(f"   Daily limit          : {quota_limit:,}")
-        print(f"   Used today           : {quota_used:,}")
-        print(f"   Remaining            : {quota_remaining:,}")
-        print(f"   Max EU IPs to enrich : {max_eu_checks:,}")
+        print(f"    Daily limit          : {quota_limit:,}")
+        print(f"    Used today           : {quota_used:,}")
+        print(f"    Remaining            : {quota_remaining:,}")
+        print(f"    Max EU IPs to enrich : {max_eu_checks:,}")
         print()
         print("ℹ️  Uses ip-api.com (free, no key) to geolocate all 10,000 IPs")
-        print("   and spends AbuseIPDB quota on European IPs only.")
+        print("    and spends AbuseIPDB quota on European IPs only.")
 
         if quota_remaining < 10:
             print()
